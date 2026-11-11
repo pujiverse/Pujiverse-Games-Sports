@@ -1,0 +1,126 @@
+673|Deal 7 to 10 cards each; place the stock and discard pile.|Draw a card and discard one, collecting sets (same rank) and runs (same suit in order).|First to meld all cards wins the hand.
+674|Deal 13 cards each with jokers.|Draw and discard to form sequences, including at least one pure sequence.|Declare a valid hand first; others count penalty points.
+675|Deal 10 cards each.|Draw and discard to form melds and cut deadwood.|Knock when deadwood is 10 or less; lowest deadwood scores.
+676|Two teams of two use two decks with jokers.|Draw and meld groups of the same rank; seven cards make a canasta.|First team to 5,000 points wins.
+677|Deal cards with jokers.|Each round requires a set contract of sets and runs.|Lowest total score after all rounds wins.
+678|Deal two hole cards each; post blinds.|Bet as five community cards come in the flop, turn and river.|Best five-card hand at showdown wins the pot, or bet so others fold.
+679|Deal four hole cards each.|Bet through flop, turn and river, using exactly two hole cards and three board cards.|Best hand at showdown wins.
+680|Deal two cards down and one up.|Bet through rounds as more cards are dealt face up and down.|Best five-card hand from seven wins.
+681|Deal three cards each; put money in the pot.|Bet blind or seen; players fold or match.|Highest hand (trail beats pure sequence beats sequence) wins the pot.
+682|The dealer places one middle card face up.|Players bet Andar or Bahar; cards are dealt alternately to both sides.|The side where the matching rank appears wins.
+683|Four players form two partnerships; deal 13 cards each.|Bid to set a contract and trump suit, then play 13 tricks.|Make your contract for points; first side to win two games takes the rubber.
+684|Four players form partnerships; the last card dealt sets trumps.|Follow suit; the highest card or trump wins the trick.|Score a point for each trick over six.
+685|Four players in pairs bid how many tricks they will win.|Spades always trump; follow suit if you can.|Make your bid for points; first team to 500 wins.
+686|Deal all cards; pass three cards each round.|Follow suit; avoid taking hearts and the Queen of Spades.|Lowest score when someone reaches 100 wins.
+687|Four players in pairs use a short deck.|Choose trumps; the jacks (bowers) are highest.|First team to 10 points wins.
+688|Use a 48-card deck.|Bid, meld card combinations, then play tricks.|First to the target score wins.
+689|Deal six cards each; discard two to the crib.|Play cards in turn counting to 31, pegging points on the board.|First to peg 121 points wins.
+690|Four players in partnerships with 32 cards.|Bid on points, choose a hidden trump and play tricks.|Make your bid to win the round.
+691|Four players in partnerships; trump is chosen from the first five cards.|Follow suit and win tricks.|Win seven tricks to take the hand.
+692|Deal all cards.|Follow suit; if you cannot, play another suit and the top player picks up the pile.|Get rid of your cards; the last holder is the Bhabhi.
+693|Four players in partnerships.|Play tricks to capture tens.|Win three or four tens to win the round.
+694|Four players in partnerships with 32 cards.|Choose trumps, declare melds and play tricks.|First team to the target points wins.
+695|Three players with 32 cards.|Bid, then the declarer plays alone against two.|Make the contract to score; most points wins.
+696|Four players with a doubled 48-card deck.|Partnerships are secret; the queens of clubs play together.|Score card points in tricks; most points wins.
+697|Four players in pairs with 36 Swiss cards.|Choose trumps and play tricks.|First team to the target score wins.
+698|Use 78 cards including trumps and the Excuse.|Bid, then play tricks against the taker.|The taker must reach a point target.
+699|Use a 40-card Italian deck; deal three cards each and four to the table.|Capture table cards by matching value or sum.|First to 11 points wins.
+700|Use a 40-card deck; one card sets trumps.|Play tricks, drawing a card after each.|More than 60 card points wins.
+701|Use a Spanish deck.|Play tricks and sing melds of kings and horses.|Most points wins.
+702|Four players in pairs use a Spanish deck.|Bet in four rounds and use secret signals.|First team to 40 points wins.
+703|Two to six players use a Spanish deck.|Play three tricks, raise stakes by shouting truco.|First to the target points wins.
+704|Deal six cards each; reveal a trump.|Attack with cards; the defender beats them or picks them up.|The last player holding cards is the durak (fool).
+705|Three players use 32 cards.|Bid, then play tricks.|Make contracts for points; most points wins.
+706|Two players use flower cards.|Match cards by month to capture.|Form yaku combinations; call koi-koi to keep going or stop to score.
+707|Lay out cards with poem endings.|A reader reads the poem start; players grab the matching card.|Most cards grabbed wins.
+708|Deal 13 cards each.|Shed singles, pairs, triples or five-card hands that beat the last play.|First to empty their hand wins.
+709|Three players bid to be landlord.|The landlord plays alone against two peasants, shedding combinations.|The side that empties first wins.
+710|Deal 13 cards each.|Play higher combinations in turn; 2s are highest.|First to empty their hand wins.
+711|Deal 13 cards each.|Play higher combinations like Big Two.|First out wins.
+712|Use Hwatu cards.|Match cards to capture; build scoring sets.|Call go to continue or stop to score.
+713|Deal five cards each.|Draw and discard; knock to end early.|Lowest hand wins.
+714|Players place bets; the dealer deals two cards each.|Hit for more cards or stand; over 21 busts.|Beat the dealer's total without going over 21.
+715|Bet on player, banker or tie.|Two or three cards are dealt to each hand by fixed rules.|The hand closest to 9 wins.
+716|Deal seven columns, with the top card face up.|Build down in alternating colours; move aces to the foundations.|Move all cards to the foundations by suit to win.
+717|Deal all cards face up in eight columns.|Use four free cells to move cards.|Build all foundations to win.
+718|Deal ten columns from two decks.|Build down; same-suit runs from king to ace are removed.|Clear all cards to win.
+719|Choose a layout.|Follow its rules to move cards.|Clear the layout to win.
+720|Deal 7 cards each; flip one to start.|Match colour or number; action cards skip, reverse and draw.|First to empty your hand wins; say UNO with one card left.
+721|Deal 10 cards each.|Complete the phase for the round, then shed cards.|First to complete all 10 phases wins.
+722|Each player has a stockpile.|Build shared stacks from 1 to 12.|First to empty their stockpile wins.
+723|Deal 5 to 7 cards each.|Ask a player for a rank; if they have none, "Go fish".|Most sets of four wins.
+724|Remove one queen and deal all cards.|Discard pairs, then draw from the next player.|The player left with the odd queen loses.
+725|Deal 5 to 7 cards.|Match suit or rank; eights are wild.|First to empty their hand wins.
+726|Deal 5 cards.|Match suit or rank; jacks are wild.|First to empty their hand wins.
+727|Deal all cards.|Play cards face down and claim a rank; others may call cheat.|First to shed all cards wins.
+728|Split the deck evenly.|Flip the top card; higher wins both; ties go to war.|Win all cards to win.
+729|Deal all cards.|Flip cards onto piles.|Shout snap on matching cards first to take the pile.
+730|Deal all cards.|Flip cards; slap any jack first.|Win all cards.
+731|Two players race at the same time.|Play cards one higher or lower onto centre piles.|First to empty their cards wins.
+732|Put one fewer spoon than players in the centre.|Pass cards quickly to collect four of a kind.|Grab a spoon; the player left without one loses.
+733|Place four cards around the deck; kings go in corners.|Build down in alternating colours.|First to empty their hand wins.
+734|Deal all cards.|Play higher sets in turns.|First out becomes president; ranks shift each round.
+735|Draw cards each turn.|Use action cards to avoid the exploding kitten.|The last player standing wins.
+736|Each player draws white answer cards; the judge reads a black card.|Players play their funniest answer.|The judge picks a winner; most black cards wins.
+737|The judge flips an adjective card.|Others play a noun that fits.|The judge picks a winner; most cards wins.
+738|Each player starts with 20 life and a deck.|Play lands for mana, cast creatures and spells, and attack.|Reduce your opponent to 0 life to win.
+739|Build a 60-card deck.|Attach energy, attack and evolve Pokémon.|Take all six prize cards to win.
+740|Build a deck.|Summon monsters and cast spells.|Reduce the opponent's life points to zero.
+741|Build a deck online.|Play minions and spells with mana.|Reduce the enemy hero to 0 health.
+742|Deal one card each from a 16-card deck.|Draw a card and play one each turn, using effects to knock players out.|The last player standing or the highest card wins.
+743|Deal cards numbered 1 to 100.|Play cards in ascending order without talking.|Complete all levels as a team.
+744|Draft sushi cards.|Pass hands around, picking one card each time.|Most points after three rounds wins.
+745|Two players with 15 cards each.|Play tricks with trump.|Seven or eight tricks win.
+746|Deal all cards.|Follow suit; if you cannot, the leader picks up.|The last player with cards is the donkey.
+747|Use five dice and a score sheet.|Roll up to three times per turn, keeping dice you want.|Fill all 13 boxes; highest total wins.
+748|Use five dice.|Roll three times per turn.|Fill all 15 boxes; highest total wins.
+749|Use five dice.|Roll up to three times for poker-style combinations.|Highest score wins; a five of a kind on the first roll wins outright.
+750|The shooter rolls two dice.|Players bet on the outcome.|7 or 11 wins on the come-out; then roll the point before a 7.
+751|Roll six dice.|Set aside scoring dice and keep rolling or bank.|First to 10,000 points wins.
+752|Each player rolls dice hidden under a cup.|Bid on how many of a face are on the table, or call liar.|Losers lose dice; the last player with dice wins.
+753|Each player rolls five dice under a cup.|Bid or call dudo; ones are wild.|The last player with dice wins.
+754|Players sit at tables in groups of four.|Roll three dice for the round number.|Most buncos and wins.
+755|Roll a die.|Keep rolling to add points, or hold; rolling a 1 loses the turn's points.|First to 100 wins.
+756|Bet on three dice.|The dealer shakes the dice.|Bets pay by outcome.
+757|The dealer shakes two dice in a cup.|Bet on odd (chō) or even (han).|Correct bets win.
+758|Roll two dice under a cup.|Announce a value (truthfully or not) that beats the last.|Callers check; liars lose a life.
+759|Roll five dice.|Get 6, 5 and 4 in order, then score the other two dice.|Highest cargo wins.
+760|Bet on a number from 1 to 6.|Three dice are spun in a cage.|Paid by how many dice show your number.
+761|The caster calls a main number.|Roll two dice.|Win or lose by matching the main or chance.
+762|Roll three dice.|Get a scoring combination like 4-5-6.|The best combination wins.
+763|Roll five dice.|Make scoring combinations.|Highest score wins.
+764|Roll five dice with coloured pips.|Make Yahtzee-like combinations.|Highest total wins.
+765|Each player has 10 dice.|Roll fast, keeping matching dice.|First to roll all 10 the same wins.
+766|Roll four dice.|Pair them to move climbers up columns; stop or push your luck.|First to claim three columns wins.
+767|Roll six dice.|Attack, heal or gain energy.|First to 20 points or the last monster standing wins.
+768|Roll dice.|Mark numbers in coloured rows in order.|Highest score wins.
+769|Roll hidden dice.|Bid on the total.|Callers check; wrong bids lose.
+770|Throw cowrie shells.|Move pieces on a grid.|First to the centre wins.
+771|Roll three dice.|Bet on totals.|Correct bets win.
+772|Roll two dice.|Move pieces as in backgammon.|First to bear off wins.
+773|Roll five dice.|Make poker hands with re-rolls.|Best hand wins.
+774|Play the online Ludo game.|Roll dice to move tokens.|First home wins.
+775|Four players build walls of 144 tiles.|Draw and discard to form four sets and a pair.|First to declare mahjong wins.
+776|Four players use 144 tiles.|Build sets and score by fan.|Highest hand value wins.
+777|Four players with 136 tiles.|Declare riichi when one tile from winning.|Win with yaku; most points wins.
+778|Use 16-tile hands.|Draw and discard to form sets.|First to win the hand scores.
+779|Four players.|Use Filipino scoring rules.|First to complete a hand wins.
+780|Use jokers and a yearly card.|Make hands from the card.|First to complete a listed hand wins.
+781|Stack tiles in a layout.|Remove pairs of free matching tiles.|Clear all tiles to win.
+782|Draw seven dominoes each.|Match pips to the ends of the line.|First to play all dominoes wins.
+783|Each player has a personal train and there is a public train.|Play matching dominoes.|Lowest score after all rounds wins.
+784|Start with a double.|Play three tiles off each double to form chicken feet.|Lowest score wins.
+785|Match ends.|Score when the ends add to a multiple of five.|First to 61 wins.
+786|Match so the ends total seven.|Matadors are wild.|First out wins.
+787|Four players in partnerships with a double-nine set.|Match ends.|First team to the target wins.
+788|Four players in partnerships.|Match ends quickly.|First team to 500 wins.
+789|Players get four tiles.|Split into high and low hands.|Beat the banker with both hands.
+790|Four players use Chinese dominoes.|Play tricks.|Score by tricks won.
+791|Four players draw tiles.|Form sets and runs.|First to complete a hand wins.
+792|Four players.|Open with 101 points of melds.|Lowest penalty wins.
+793|Draw six tiles.|Make lines of same colour or shape.|Highest score wins.
+794|Each player draws letter tiles.|Build a personal crossword grid; call "peel" to draw more.|First to use all tiles wins.
+795|Draw seven letter tiles.|Play words or stack letters to change words.|Highest score wins.
+796|Place path tiles.|Move along paths; avoid leaving the board.|The last player on the board wins.
+797|Place hexagonal bug tiles.|Move pieces by their bug abilities.|Surround the opponent's queen bee to win.
+798|Draw triangular tiles.|Match all three numbers on a side.|Highest score wins.

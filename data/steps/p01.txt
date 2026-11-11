@@ -1,0 +1,194 @@
+0|Pick your event: pool swimming, diving, artistic swimming, water polo or open-water marathon.|Swimmers race set distances in strokes like freestyle or butterfly; divers perform judged dives; water polo teams score in goals.|Fastest time wins races; judges' scores decide diving and artistic; most goals wins water polo.
+1|Stand on the shooting line facing a 122 cm target 70 m away with a recurve bow.|Shoot arrows in timed ends; rings score 10 at the centre down to 1 at the edge.|Win sets by higher end totals; first to 6 set points wins the match.
+2|Choose a track, jump, throw, road or combined event.|Run, jump or throw within the rules of that event, staying in lanes and behind lines.|Fastest time, longest distance or greatest height wins.
+3|Play on a netted court with rackets and a shuttlecock, one or two per side.|Serve diagonally underarm and rally; the shuttle must land in bounds and cross the net.|Score a point on every rally; first to 21 (by 2) wins a game, best of three games.
+4|Two teams of five play full court; 3x3 uses one hoop on a half court.|Dribble, pass and shoot; field goals score 2 or 3 points (1 or 2 in 3x3), free throws 1.|Most points when time ends wins; in 3x3, first to 21 also wins.
+5|Two boxers of the same weight class meet in a ring wearing gloves.|Land clean punches above the belt over three rounds; no holding, kicking or low blows.|Win by knockout, referee stoppage or judges' decision.
+6|Two B-Boys or B-Girls face off in a battle with a DJ playing.|Take turns dancing rounds of toprock, footwork, freezes and power moves to the music.|Judges vote for the stronger dancer on technique, creativity and musicality.
+7|Paddle a canoe or kayak alone or in crews on flat water or a whitewater course.|Sprint races go straight down lanes; slalom racers pass through hanging gates in order.|Fastest time wins; in slalom, touching or missing gates adds penalty seconds.
+8|Choose road, track, mountain bike or BMX.|Race other riders over a course or track, using drafting, sprints and tactics.|First across the line or fastest time wins.
+9|Rider and horse compete in dressage, eventing or show jumping.|Dressage shows precise movements; jumping clears fences; eventing combines both plus cross-country.|Best judged score or fewest penalties wins.
+10|Two fencers face off on a strip with foil, épée or sabre.|Lunge and parry to touch valid target areas; electronic scoring registers hits.|First to 15 touches (or the most when time runs out) wins.
+11|Two teams of eleven play on a grass pitch with goals at each end.|Move the ball with feet, head and body; only the goalkeeper may use hands in the box.|The team with more goals after 90 minutes wins.
+12|Play 18 holes on a course with a set of clubs and a ball.|Hit from the tee toward the green and putt into the hole, counting every stroke.|Lowest total strokes over the rounds wins.
+13|Choose artistic, rhythmic or trampoline gymnastics.|Perform a routine on an apparatus or floor, showing difficulty and clean execution.|Judges add difficulty and execution scores; highest score wins.
+14|Two teams of seven play indoors with goals and a 6 m goal area.|Pass and bounce the ball, take no more than three steps holding it, and shoot.|Most goals after two 30-minute halves wins.
+15|Two teams of eleven play on a pitch with hooked sticks and a small hard ball.|Use only the flat side of the stick; goals must be shot from inside the circle.|Most goals after four quarters wins.
+16|Two judoka in gi meet on a mat within their weight class.|Grip and throw, pin, choke or armlock your opponent using judo techniques.|An ippon ends the bout; otherwise the most waza-ari scores wins.
+17|Compete in fencing, 200 m swimming, obstacle course and a laser-run.|Points from each event are added up; the laser-run start is staggered by points.|First athlete across the laser-run finish line wins.
+18|Rowers sit in boats of 1 to 8, with one or two oars each.|Race in lanes over 2,000 m, rowing in rhythm with the crew.|First boat across the finish line wins.
+19|Two teams of seven play on a full-size rugby pitch.|Pass backwards, run forward and tackle; play is fast over two 7-minute halves.|Tries score 5, conversions 2; most points wins.
+20|Sail a dinghy, kiteboard or windsurf board on a marked course.|Use the wind to round marks in order, following right-of-way rules.|Lowest total points across races (1st = 1 point) wins.
+21|Shooters fire rifles, pistols or shotguns at fixed or flying targets.|Each shot is scored by how close it hits the centre or whether it breaks the clay.|Highest total score after the final wins.
+22|Skaters ride a street course or a park bowl with a skateboard.|Perform runs of tricks like ollies, grinds and flips within a time limit.|Judges score difficulty and style; best score wins.
+23|Climbers compete in speed, bouldering and lead climbing.|Speed is a race up a fixed wall; boulder and lead test problems and height reached.|Fastest time or most problems topped and highest hold reached wins.
+24|Surfers paddle out into ocean waves in heats of 2 to 4.|Ride waves and perform turns, airs and barrels within the heat time.|Best two wave scores are added; highest total wins.
+25|Play on a table with a net, paddles and a light ball.|Serve so the ball bounces once on each side; rally until someone misses.|First to 11 points (by 2) wins a game; best of 5 or 7 games.
+26|Two fighters wear electronic body protectors and headgear.|Score with kicks and punches to the body and head; kicks to the head score most.|Win the most rounds by points, or by knockout.
+27|Play on a court with a net, rackets and a ball, singles or doubles.|Serve diagonally, rally after one bounce, and keep the ball inside the lines.|Win points, games and sets; best of 3 or 5 sets wins.
+28|Athletes swim, cycle and run in one continuous race.|Transition quickly between disciplines in the transition zone.|First across the finish line wins.
+29|Indoor volleyball uses 6 per side on a court; beach volleyball uses 2 per side on sand.|Hit the ball over the net in up to three touches without catching it.|Rally scoring to 25 (21 on beach); win the most sets.
+30|Lifters compete in their bodyweight class with a barbell.|Get three attempts each at the snatch and the clean and jerk.|The best lift of each added together gives the total; highest total wins.
+31|Two wrestlers of the same weight meet on a circular mat.|Score by takedowns and exposing the opponent's back; Greco-Roman bans holds below the waist.|Win by pin (fall), technical superiority or most points.
+32|Two teams of eleven play on an oval field with a bat, ball and wickets.|Each team bats for 20 overs while the other bowls and fields.|The team scoring more runs wins.
+33|Two teams of five play on a small field with flags on each player's belt.|Advance the ball by passing and running; pull a flag instead of tackling.|Touchdowns score 6; most points wins.
+34|Two teams of six play on a small field with stick nets.|Pass, catch and shoot the ball into the goal; play is fast with a shot clock.|Most goals wins.
+35|Two players hit a small rubber ball in a four-walled court.|Hit the ball to the front wall above the tin before it bounces twice.|First to 11 (by 2) wins a game; best of five games.
+36|Two teams of nine take turns batting and fielding on a diamond.|Batters hit pitched balls and run the bases; fielders get three outs to end the half-inning.|Most runs after nine innings (seven in softball) wins.
+37|Ski down a marked course through gates on a snowy mountain.|Events range from fast downhill to technical slalom with tight turns.|Fastest time wins; missing a gate disqualifies.
+38|Cross-country ski with a rifle on your back.|Stop at the range to shoot five targets prone or standing.|Fastest time wins; misses add penalty loops or time.
+39|Teams of two or four push a sled and jump in on an ice track.|The pilot steers through the curves while the brakeman stops at the end.|Lowest combined time over all runs wins.
+40|Ski long distances over snowy terrain using classic or skating technique.|Race individually, in mass starts or relays.|Fastest time or first across the line wins.
+41|Two teams slide granite stones toward a target (the house) on ice.|Sweepers brush the ice to guide each stone; teams alternate throws.|Score a point for each stone closer to the centre than the opponent's best; most points wins.
+42|Skate solo, in pairs or ice dance to music.|Perform jumps, spins, lifts and step sequences in short and free programmes.|Judges score technical elements and presentation; highest total wins.
+43|Ski in moguls, aerials, halfpipe, slopestyle or ski cross.|Perform jumps and tricks or race head-to-head, depending on the event.|Judges' scores or first across the line wins.
+44|Two teams of six skate on an ice rink with sticks and a puck.|Pass and shoot the puck into the goal; body checking is allowed in men's play.|Most goals after three periods wins.
+45|Lie on your back, feet first, on a small sled on an ice track.|Steer with your calves and shoulders through the curves.|Lowest combined time over all runs wins.
+46|Combine ski jumping and cross-country skiing.|The jump result sets your start gap for the cross-country race.|First across the cross-country finish line wins.
+47|Four to six skaters race on a 111 m oval track.|Race in packs, overtaking around tight corners without impeding others.|First across the line advances; win the final.
+48|Lie head-first on a small sled on an ice track.|Sprint to start, dive onto the sled and steer with your body.|Lowest combined time over all runs wins.
+49|Ski down a jump ramp and fly as far as possible.|Land in telemark position with good style.|Distance points plus style points; highest score wins.
+50|Climb uphill on skis with skins and descend off-piste.|Switch between climbing, boot-carrying sections and downhill skiing.|Fastest time wins.
+51|Ride a snowboard in halfpipe, slopestyle, big air, cross or parallel events.|Perform tricks for judges or race against other riders.|Highest judged score or first across the line wins.
+52|Two skaters race on a 400 m oval in separate lanes.|Skate set distances, switching lanes on each lap.|Fastest time wins.
+53|Athletes with impairments compete in classes in track and field events.|Run, jump or throw using guides, prosthetics or racing chairs where needed.|Fastest time or longest distance in each class wins.
+54|Swimmers compete in classes based on their impairment.|Race in standard strokes; visually impaired swimmers have tappers at the walls.|Fastest time in each class wins.
+55|Players in wheelchairs throw or roll leather balls toward a white jack ball.|Each side throws six balls; ramps and assistants are allowed in some classes.|Score a point for each ball closer to the jack than the opponent's closest.
+56|Two teams of three blindfolded players defend a goal across the full court width.|Roll a ball with bells inside toward the opposing goal; defenders listen and block.|Most goals wins; spectators must stay silent.
+57|Two teams of five play basketball in sports wheelchairs.|Push twice, then dribble or pass; standard hoop and court sizes are used.|Most points wins.
+58|Two teams of four play in reinforced wheelchairs on a basketball court.|Carry the ball across the try line; chair-to-chair contact is allowed.|Most goals wins.
+59|Play tennis from a wheelchair, singles or doubles.|The ball may bounce twice, with the first bounce inside the court.|Standard tennis scoring decides the winner.
+60|Two fencers sit in wheelchairs fixed to the floor.|Fence with foil, épée or sabre at a fixed distance.|First to 15 touches wins.
+61|Two teams of five play; outfield players are blindfolded and goalkeepers are sighted.|The ball has a rattle inside; players call "voy" to signal their position.|Most goals wins.
+62|Two teams of six play volleyball sitting on the floor with a low net.|Players must keep their buttocks on the floor when touching the ball.|Rally scoring to 25; win the most sets.
+63|Two teams of six sit on sledges with two short sticks.|Use the spiked end to push and the blade end to pass and shoot the puck.|Most goals after three periods wins.
+64|Teams of four in wheelchairs deliver stones by hand or with a delivery stick.|There is no sweeping; teams alternate throws toward the house.|Most stones nearest the centre over the ends wins.
+65|Athletes ski downhill or cross-country in standing, sitting or visually impaired classes.|Sit-skiers use mono-skis; visually impaired skiers follow a guide.|Factored times decide the winner in each class.
+66|Two teams of eleven on a pitch, each with a goalkeeper.|Kick, pass and head the ball; hands only for the keeper in the box; offside rules apply.|Most goals after 90 minutes wins.
+67|Two teams of five play on a hard indoor court with a smaller, low-bounce ball.|Pass quickly with unlimited substitutions; kick-ins replace throw-ins.|Most goals after two 20-minute halves wins.
+68|Two teams of five play barefoot on sand.|Use flicks, bicycle kicks and volleys since the ball rarely rolls.|Most goals after three 12-minute periods wins.
+69|Mark small goals with bags or stones on any street or yard.|Play small-sided games with local rules, often without referees.|First to an agreed score or most goals wins.
+70|Two teams of five play on a court with a hoop at each end.|Dribble, pass and shoot; no walking with the ball; shot clock applies.|Baskets score 2 or 3, free throws 1; most points wins.
+71|Two teams of three play on a half court with one hoop.|After a defensive rebound, take the ball outside the arc before shooting.|Inside-arc baskets score 1, outside 2; first to 21 or most points after 10 minutes wins.
+72|Two teams of six play on a court divided by a high net.|Use up to three touches to hit the ball over; rotate positions after winning serve.|Rally scoring to 25 by 2; best of five sets wins.
+73|Two players per side play on sand with a net.|Use up to three touches; players switch sides every 7 points.|Rally scoring to 21; best of three sets wins.
+74|Two teams of four play on sand with goals.|Pass and shoot; spin shots and in-flight shots score double.|Win each half; a shoot-out decides tied matches.
+75|Two teams of seven play on a court with a ring at each end.|Players hold set positions, cannot run with the ball and must pass within 3 seconds.|Goals from inside the circle score; most goals wins.
+76|Mixed teams of eight (four men, four women) play with tall baskets without backboards.|Pass the ball; no dribbling or running with it; men mark men and women mark women.|Most baskets wins.
+77|Two teams of seven play in a deep pool.|Swim with the ball and pass with one hand; only goalkeepers may use two hands.|Most goals after four quarters wins.
+78|Two teams of fifteen play on a grass pitch with H-shaped posts.|Run with the ball and pass backwards; tackles lead to rucks, mauls and scrums.|Tries 5, conversions 2, penalties and drop goals 3; most points wins.
+79|Two teams of thirteen play on a rugby pitch.|Each team gets six tackles to advance before handing over possession.|Tries 4, goals 2, drop goals 1; most points wins.
+80|Two teams of six play on a pitch without tackling.|Touching the ball carrier counts as a tackle; after six touches possession changes.|Most touchdowns wins.
+81|Two teams of eleven play on a field with end zones.|The offence gets four downs to gain 10 yards by running or passing.|Touchdown 6, field goal 3, extra points 1 or 2; most points wins.
+82|Two teams of twelve play on a larger field with deep end zones.|The offence gets three downs to gain 10 yards.|Touchdowns, field goals and the single (rouge) score; most points wins.
+83|Two teams of eighteen play on an oval with four posts at each end.|Kick, handball and run, bouncing the ball every 15 m.|A kick between the middle posts scores 6; outer posts 1; most points wins.
+84|Two teams of fifteen play on a pitch with H-shaped goals.|Carry the ball four steps, then bounce or solo it; kick or hand-pass to teammates.|A goal under the bar scores 3, over the bar 1; most points wins.
+85|Two teams of nine play on a court with a net.|Catch the ball and throw it over the net within 3 seconds.|A point is won when the ball lands in the opponent's court; win the most sets.
+86|Two teams of three play on a badminton-sized court with a rattan ball.|Use feet, knees, chest and head, never hands, with up to three touches.|Rally scoring to 21; best of three sets wins.
+87|Two players per side play on sand with a volleyball net.|Use any body part except hands and arms, up to three touches.|Rally scoring to 18 or 21; win the most sets.
+88|Players stand on either side of a curved table.|Use up to three touches with any body part except hands; the ball must bounce once on each side.|First to 12 wins a set; best of three sets wins.
+89|Two teams play on a baseball diamond with a rubber ball.|The pitcher rolls the ball; the kicker kicks it and runs the bases.|Most runs after the innings wins.
+90|Two teams stand on each side of a centre line with several soft balls.|Throw balls to hit opponents; catching a ball gets the thrower out.|The team that eliminates all opponents wins.
+91|Two teams of seven play on a field with end zones and a flying disc.|Pass the disc; the holder cannot run; a dropped pass changes possession.|Catch the disc in the end zone to score; first to 15 wins.
+92|Two teams of five play with baskets on poles and no backboards.|Pass the ball by hand only; there is no dribbling.|Most baskets wins.
+93|Two teams of four ride horses with a ball that has handles.|Pick up the ball from horseback and pass among riders.|Throw the ball through the opponent's ring; most goals wins.
+94|Two teams play on an inflatable court with a trampoline on each side.|Use hands, feet and head to send the ball over the net; spikes from the trampoline score more.|First to 25 wins a set.
+95|Two teams of seven play with a rebound frame at each end.|Throw the ball at a frame so it bounces out of reach; interception is not allowed.|A point is scored if the rebound lands untouched in the court.
+96|Two teams of six play in a deep pool with a saltwater-filled ball.|Pass the ball underwater and dive with it toward the basket on the pool floor.|Most goals in the opponent's basket wins.
+97|Two players per side ride fixed-gear bikes on a small court.|Move the ball using only the bike wheels; hands and feet are not allowed.|Most goals wins.
+98|Two teams of five play on a court with a net and a yellow woollen ball.|Hit the ball over the net with rackets; it must not touch the floor.|Points to 29; best of three games wins.
+99|Two teams of eleven play a match with two innings each over up to five days.|Bowlers try to take 10 wickets; batters score runs between wickets or by boundaries.|Win by scoring more runs and dismissing the other side twice; otherwise a draw.
+100|Each team bats for one innings of 50 overs.|Fielding restrictions apply in powerplays; each bowler may bowl 10 overs.|The team with more runs wins.
+101|Each team bats for one innings of 20 overs.|Each bowler bowls up to 4 overs; a six-over powerplay starts each innings.|The team with more runs wins; a Super Over breaks ties.
+102|Each team faces 100 balls.|Bowlers deliver sets of 5 or 10 balls from one end.|The team with more runs wins.
+103|Each team bats for 10 overs.|Matches last about 90 minutes with aggressive batting.|The team with more runs wins.
+104|Two teams of 6 to 8 play in a netted box or cage.|Short overs and special rules award runs for hitting nets and walls.|Most runs wins.
+105|Play in a lane or yard with any bat, ball and stumps you have.|Agree on local rules, such as one-tip-one-hand and no running for hits over walls.|Most runs wins.
+106|Wrap a tennis ball in electrical tape for extra pace and swing.|Play short-over matches with street rules.|Most runs wins.
+107|Two teams of eight play in a fully netted indoor court.|Batters run in pairs; hitting the nets scores runs and getting out deducts runs.|Highest total wins.
+108|Set up stumps on firm sand near the water.|Play casual overs with everyone batting and bowling.|Most runs wins.
+109|Large village teams play with a three-sided bat and a rubber ball.|Everyone may bat; the game mixes singing and dancing.|Most runs wins; hosting a feast follows.
+110|Two teams of nine take turns batting and fielding on a diamond.|The pitcher throws to the batter; three strikes is out and four balls is a walk.|Score a run by touching all four bases; most runs after nine innings wins.
+111|Two teams of nine play on a smaller diamond with a larger ball.|The pitcher throws underarm; batters hit and run the bases.|Most runs after seven innings wins.
+112|Two teams of ten play recreational softball.|Pitches arrive in a high slow arc; there is no stealing bases.|Most runs wins.
+113|Two teams of nine play with a short bat and four posts.|Batters hit the ball and run around the posts.|A full circuit scores a rounder; most rounders wins.
+114|Two teams of nine play on a zigzag field.|The pitcher tosses the ball vertically above home plate; batters run a zigzag route.|Most runs after two periods wins.
+115|Two teams play with a bat on a field between two lines.|Batters hit the ball and run to the far line and back while fielders try to hit them with the ball.|Most successful runs wins.
+116|Two teams of eleven play with a wooden bat and a board on a stake as the wicket.|Bowlers throw underarm at the board; batters protect it and run.|Most runs wins.
+117|Two teams of twelve women play with a tennis-racket-shaped bat.|Batters must run on every hit; bowlers bowl from one end continuously.|Most runs wins.
+118|Play in a city street with a broomstick and a rubber ball.|Pitch or fungo-hit the ball; parked cars and manholes serve as bases.|Most runs wins.
+119|Use a light plastic bat and a perforated plastic ball.|Pitch and hit; the ball curves wildly and fielding is simple.|Most runs wins.
+120|Young players hit the ball off a tee instead of a pitch.|Batters run the bases after hitting; everyone bats each inning.|Usually no score is kept; practice and fun come first.
+121|Use a long stick (danda) and a short tapered stick (gilli).|Strike the end of the gilli to flip it up, then hit it far.|Points are counted by measuring distance in danda lengths.
+122|Lay a small spindle-shaped cat on the ground and use a stick to strike it.|Hit the cat into the air, then strike it again as far as possible.|Distance in stick lengths gives points; most points wins.
+123|Two teams of eleven play with a bat and a ball on a rectangular field.|Batters hit and run the field while fielders try to hit them with the ball.|Points for runs and hits; most points wins.
+124|Two teams play with a bat and a tennis ball.|Batters hit and run around bases; fielders return the ball to the burn spot.|Points for runs and catches; most points wins.
+125|Two teams of eleven play with sticks and a hard ball.|Use the flat side of the stick only; shoot from inside the circle.|Most goals after four quarters wins.
+126|Two teams of six play on an indoor court with side boards.|Push the ball (no hitting); the boards keep play moving.|Most goals wins.
+127|Two teams of five play on roller skates with sticks and a ball.|Pass and shoot the ball into the goal, with boards around the rink.|Most goals wins.
+128|Two teams of four play on inline skates with a puck.|Pass and shoot; there is no offside or icing in most rules.|Most goals wins.
+129|Two teams of six play indoors with light sticks and a plastic ball with holes.|Lifting the stick high and body checking are not allowed.|Most goals after three periods wins.
+130|Two teams of eleven play on a large ice rink with curved sticks and a ball.|Skate and pass like football on ice; the ball cannot be played above the shoulder.|Most goals wins.
+131|Two teams of six play on ice with straight sticks and a rubber ring.|Pass the ring across each blue line; no body contact.|Most goals wins.
+132|Two teams of fifteen play with a hurley and a small ball (sliotar).|Carry the ball on the hurley, strike it far or catch it in the hand.|A goal scores 3, over the bar scores 1; most points wins.
+133|Two teams of fifteen women play hurling-style with a camán.|Strike, carry and catch the sliotar; rules are close to hurling.|A goal scores 3, over the bar 1; most points wins.
+134|Two teams of twelve play with curved sticks (camans) and a small ball.|The ball can be played in the air and with both sides of the stick.|Most goals wins.
+135|Two teams of ten play with netted sticks on a large field.|Cradle, pass and shoot the ball; body checks are allowed in men's play.|Most goals wins.
+136|Two teams of six play indoors in a hockey rink.|Play fast with a shot clock and physical contact.|Most goals wins.
+137|Two teams of six play on a small field for short periods.|A 30-second shot clock keeps play fast; no faceoffs after goals.|Most goals wins.
+138|Two teams of four ride horses and hit a ball with long mallets.|Play several chukkas, changing horses between them; right-of-way rules protect riders.|Most goals wins.
+139|Two teams of three ride bikes with mallets and a ball.|Hit the ball with the end of the mallet; putting a foot down means tapping out.|Most goals wins.
+140|Two teams of four ride elephants steered by mahouts.|Players hit a polo ball with long mallets.|Most goals wins.
+141|Two teams of five in kayaks play on water with goals above the surface.|Pass the ball by hand or paddle; push opponents' kayaks to tackle.|Most goals wins.
+142|Two teams of six wear masks, fins and snorkels in a pool.|Push a lead puck along the pool floor with short sticks while holding your breath.|Most goals in the opponent's tray wins.
+143|Two teams of six wear rubber shoes on ice and use brooms.|Hit a small ball into the goal without skates.|Most goals wins.
+144|Two teams play with curved sticks and a small ball on a long field.|Drive the ball past the opponent's end line.|Most goals wins.
+145|Play on a frozen pond with skates, sticks and a puck.|Pick sides; no goalies, no checks and no lifting the puck.|First to an agreed score wins.
+146|Two teams of six sit on sledges with two short sticks.|Push with the spiked ends and shoot with the blades.|Most goals wins.
+147|Two village teams play with curved sticks and a ball.|Drive the ball across the field; numbers per team are flexible.|Most goals wins.
+148|Players use a curved stick and a ball in an open village ground.|Hit the ball toward the opponent's goal line or target.|Most goals wins.
+149|Play on an enclosed indoor court with sloping roofs (penthouses).|Hit the ball off the walls and roofs with a lopsided racket.|Win points by chases and openings; first to six games wins a set.
+150|Two to four players use short rackets and a hollow ball in a closed court.|The ball may hit any wall or the ceiling but must reach the front wall before the floor.|First to 15 wins a game; best of three games.
+151|Play on a small court with paddles and a plastic ball with holes.|Serve underarm diagonally; the ball must bounce once on each side before volleys are allowed.|First to 11 (by 2) wins; only the serving side scores.
+152|Two pairs play on an enclosed court with glass walls.|Serve underarm; the ball may rebound off walls after bouncing.|Scored like tennis; best of three sets wins.
+153|Two pairs play on a raised court surrounded by wire fences.|Serve once; the ball may be played off the fences after bouncing.|Scored like tennis.
+154|Play on a small court with solid paddles and a depressurized ball.|Serve underarm and rally like tennis.|Scored like tennis.
+155|Two pairs play on sand with paddles and a net.|Hit the ball before it touches the sand.|Scored like tennis, often with no-ad points.
+156|Two to four players hit a ball against a front wall with tennis rackets.|The ball must hit the wall above a line and bounce once on the floor.|First to an agreed score wins.
+157|Play against a front wall (fronton) with hands, rackets or baskets.|Return the ball to the wall before it bounces twice.|First to an agreed score wins.
+158|Two to four players use a curved wicker basket (cesta) to catch and throw a hard ball.|Catch the ball and throw it in one motion against the front wall.|First to 7 or 9 points wins.
+159|Two players use rackets and a heavier shuttle with no net.|Hit the shuttle into the opponent's square court, set about 12 m apart.|First to 16 points wins a set.
+160|Play on a tennis court with a soft rubber ball.|Rally like tennis; doubles is the most common format.|Games to 4 points; first to win the set wins.
+161|Two to four players play in a large four-walled court with a hard ball.|Hit the ball to the front wall above a board; it moves very fast.|First to 15 wins a game.
+162|Two teams of five play with a tambourine-like racket.|Hit the ball across the field to the other side.|Scored like tennis; most games wins.
+163|Use a weighted feather shuttle and stand in a circle or across a net.|Kick the shuttle to keep it in the air.|Count keeps or play over a net; first to 21 wins.
+164|Two pairs stand around a small round trampoline net.|Hit the ball onto the net in up to three touches; teams move freely around it.|Rally scoring to 21 wins.
+165|Two players stand on each side of a pole with a tethered ball.|Hit the ball in your direction to wind the rope around the pole.|First to wind the ball fully around wins.
+166|Sprinters start from blocks in lanes.|Run 100 m straight at full speed; one false start disqualifies.|Fastest time wins.
+167|Run one half-lap (200 m) or one full lap (400 m) in lanes.|Use staggered starts and hold your speed around the bend.|Fastest time wins.
+168|Run 800 m or 1500 m with lane breaks after the start.|Pace yourself and save energy for a final kick.|First across the line wins.
+169|Run 12.5 or 25 laps of the track.|Keep a steady pace and manage your position in the pack.|First across the line wins.
+170|Run 42.195 km on roads.|Pace yourself and drink at water stations.|First across the finish line wins; others race to beat their own time.
+171|Run 21.1 km on roads.|Hold a steady pace and fuel along the way.|First across the line wins.
+172|Run distances beyond 42.195 km, often 50 km to 100 miles.|Manage food, water and pacing over trails or roads.|First finisher or longest distance in the time limit wins.
+173|Sprint over 10 hurdles: 110 m for men, 100 m for women.|Keep a set number of strides between hurdles; knocking them over is allowed.|Fastest time wins.
+174|Run one lap over 10 hurdles in lanes.|Keep rhythm between hurdles and finish strong.|Fastest time wins.
+175|Run 3000 m over barriers and a water jump.|Clear 28 barriers and 7 water jumps.|First across the line wins.
+176|Four runners form a team, each running one leg.|Pass the baton within the changeover zone.|First team across the line wins; dropping the baton costs time.
+177|Walk fast with one foot always on the ground and the front leg straight.|Judges show cards for faults; three red cards disqualify.|First across the line wins.
+178|Sprint down the runway and jump from the take-off board.|Land in the sandpit; overstepping the board is a foul.|Longest jump wins.
+179|Sprint and take off from the board.|Hop, step and then jump into the sandpit.|Longest total distance wins.
+180|Run up and jump over a horizontal bar.|Most athletes use the Fosbury Flop; three misses at a height eliminate you.|Highest clearance wins.
+181|Sprint with a flexible pole and plant it in the box.|Swing up and over the bar without knocking it off.|Highest clearance wins.
+182|Stand in a circle holding a heavy metal ball at your neck.|Push the shot with one hand from the shoulder without leaving the circle.|Longest throw wins.
+183|Stand in a circle holding a heavy disc.|Spin and release the discus within the sector lines.|Longest throw wins.
+184|Run down the runway holding a javelin.|Throw it overarm; the metal tip must land first.|Longest throw wins.
+185|Stand in a caged circle holding a ball on a wire with a handle.|Spin three or four times and release.|Longest throw wins.
+186|Compete in ten events over two days.|100 m, long jump, shot, high jump, 400 m, hurdles, discus, pole vault, javelin and 1500 m.|Points from each event are added; highest total wins.
+187|Compete in seven events over two days.|100 m hurdles, high jump, shot, 200 m, long jump, javelin and 800 m.|Highest total points wins.
+188|Run across fields, mud and hills, usually 4 to 12 km.|Individuals score by finishing position; teams add their top runners.|First runner and lowest team score win.
+189|Run on mountain paths and forest trails.|Navigate climbs, descents and rough ground.|Fastest time wins.
+190|Race up and down hills, often off-path.|Choose your own route between checkpoints in some races.|Fastest time wins.
+191|Run on mountains above 2,000 m with steep climbs.|Manage altitude, steep ground and weather.|Fastest time wins.
+192|Run a course with walls, ropes, mud and carries.|Complete every obstacle or take a penalty.|Fastest time wins.
+193|Show up at a park for a free timed 5 km run each Saturday.|Run, jog or walk; volunteers time you with your barcode.|Everyone gets a result; aim to beat your own time.

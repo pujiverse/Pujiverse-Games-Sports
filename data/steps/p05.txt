@@ -1,0 +1,377 @@
+799|Players take turns placing black and white stones on the intersections of a grid.|Surround empty points to claim territory; stones with no free neighbours are captured.|Most territory plus captured stones wins.
+800|Each player has 12 pieces on the dark squares.|Move diagonally and jump over enemy pieces to capture.|Capture or block all enemy pieces to win.
+801|Start with two black and two white discs in the centre.|Place a disc so it traps a line of enemy discs, then flip them.|Most discs when the board is full wins.
+802|Each player has 12 pieces on a board with diagonal lines.|Place and move pieces to form mills of three.|Each mill removes an enemy piece; reduce the opponent to two to win.
+803|Each player has 12 cows on a morris board with diagonals.|Place, move and, when down to three, fly pieces to form mills.|Reduce the opponent to two cows to win.
+804|Put four seeds in each of 12 pits.|Sow seeds anticlockwise one per pit; capture when the last seed makes 2 or 3.|First to capture 25 seeds wins.
+805|Play on a 4x8 board of pits with seeds.|Sow and capture from the opponent's inner row using complex rules.|Leave the opponent unable to move to win.
+806|Put seeds in six pits per side plus two stores.|Sow anticlockwise; landing in your store gives another turn; landing in an empty pit captures.|Most seeds in your store wins.
+807|Play on a boat-shaped board with seven pits per side.|Both players sow at the same time at the start.|Most seeds in the home store wins.
+808|Play on a board with seven pits per side.|Sow seeds and capture from opposite pits.|Most shells in the store wins.
+809|Play on a 4x8 board with seeds.|Sow anticlockwise in your two rows and capture from the opponent's.|Capture all the opponent's seeds to win.
+810|Play on a 14-pit board with seeds or shells.|Sow seeds and capture from the pit after the last one.|Most seeds wins.
+811|Take turns placing stones on a grid.|Build lines and block the opponent.|First to five in a row wins.
+812|Play gomoku on a 15x15 board.|Black is barred from certain double-three and overline moves.|First to exactly five in a row wins.
+813|Black places one stone first; after that each player places two stones per turn.|Build lines and block threats.|First to six in a row wins.
+814|Place stones on a grid.|Capture a pair of enemy stones by sandwiching them.|Five in a row or five captures wins.
+815|Each player has 14 marbles on a hexagonal board.|Push lines of marbles; a larger line can push a smaller one.|Push six enemy marbles off the board to win.
+816|Each pawn starts on one side of a 9x9 board; players have walls.|Move one step or place a wall to block paths.|First pawn to the opposite side wins.
+817|Each player has 21 polyomino pieces.|Place pieces touching your own only at the corners.|Fewest squares left over wins.
+818|Each player has a master and four students; five move cards are dealt.|Use a card to move a piece, then pass the card across.|Capture the enemy master or reach their temple.
+819|Each player has two builders on a grid.|Move a builder, then build a level next to it.|First to step onto a third-level tower wins.
+820|Draw a 3x3 grid; players are X and O.|Take turns marking a square.|First to get three in a row wins; a full grid is a draw.
+821|Draw nine small tic-tac-toe boards in a 3x3 grid.|The square you play in sends your opponent to the matching small board.|Win three small boards in a row to win.
+822|Lay out rows of objects.|Take turns removing any number from a single row.|Avoid taking the last object (or take it, by agreed rule).
+823|Draw a grid of dots.|Take turns joining two neighbouring dots; complete a box to claim it and go again.|Most boxes wins.
+824|Each player has 12 pieces on the board edges.|Move a piece exactly as many squares as there are pieces on that line.|First to connect all their pieces wins.
+825|Each player has four queens on a 10x10 board.|Move a queen, then shoot an arrow that blocks a square.|The last player able to move wins.
+826|Use a chess set with animal names.|Make four steps per turn; stronger pieces push and pull weaker ones; traps capture.|Get a rabbit to the far row to win.
+827|Players place flat stones or standing walls.|Stack and move piles of stones.|First to build a road across the board wins.
+828|Four tigers sit on corners; 20 goats are placed one at a time.|Tigers jump to capture goats; goats move to block.|Tigers win by capturing five goats; goats win by trapping all tigers.
+829|Three tigers and 15 goats on a triangular board.|Tigers jump goats; goats block.|Goats win by trapping tigers; tigers by capturing enough goats.
+830|Tigers and lambs on a grid.|Tigers jump; lambs trap.|Trap tigers or capture lambs.
+831|Two pieces each on a five-point board.|Move along lines to empty points.|Block the opponent so they cannot move.
+832|Four pieces each on an eight-pointed star.|Move to the empty spot by the rules.|Block the opponent so they cannot move.
+833|Place pieces on a morris board.|Form lines of three to capture.|Capture all pieces to win.
+834|Place 12 pieces each on a 5x6 grid.|Move to form lines of three and remove enemy pieces.|Leave the opponent unable to form lines.
+835|Place pieces on a 5x6 grid.|Move and capture; capture also removes a second piece.|Capture all enemy pieces.
+836|Fill the board with alternating stones.|Jump to capture.|The last player able to move wins.
+837|Play on a board with a race track and dice.|Move soldiers and kings; capture opponents.|The last player with pieces wins.
+838|A 9x9 grid has some numbers filled in.|Fill each empty cell so every row, column and 3x3 box has 1 to 9 once.|Complete the grid to solve it.
+839|Read across and down clues.|Write answers into the grid letter by letter.|Fill the whole grid correctly.
+840|Draw columns for name, place, animal and thing.|Pick a letter and write an answer for each column fast.|Unique answers score 10, shared answers 5.
+841|Choose a letter.|Write words for each category; shout "Stop" when done.|Unique answers score more.
+842|Choose a letter.|Write a city, country and river starting with it.|Score by unique answers.
+843|Draw a race board on paper.|Roll dice and move horses.|First to finish wins.
+844|Each player draws two grids and hides ships on one.|Call coordinates and mark hits and misses.|Sink all enemy ships to win.
+845|Get a grid of letters and a word list.|Find and circle each hidden word.|Find all words to finish.
+846|Draw a few dots.|Join two dots with a line and add a new dot on it.|The last player who can move wins.
+847|Draw a dot grid.|Join dots to close boxes.|Most boxes wins.
+848|Open a book at a random page.|The last digit of the page number gives runs; 0 is out.|Most runs wins.
+849|Fold paper into a triangle.|Flick it across the table; the opponent makes finger goalposts.|Most goals wins.
+850|Each player writes a line, folds it and passes it.|Build a story with set prompts.|Read the funny stories aloud.
+851|Fold paper into sections.|Each person draws one body part without seeing the others.|Unfold to reveal the creature.
+852|Write lists of options.|Draw a spiral and count to cross out options.|The remaining options give your "future".
+853|Fold a paper fortune teller.|Pick colours and numbers to open flaps.|Reveal the fortune.
+854|A grid has sum clues.|Fill digits 1 to 9 so each run adds to its clue.|Complete the grid.
+855|A grid has cages with targets.|Fill digits using arithmetic and Latin square rules.|Complete the grid.
+856|A grid has number clues for each row and column.|Shade cells to match the clues.|Reveal the hidden picture.
+857|A grid with ship counts per row and column.|Use logic to place ships.|Complete the fleet.
+858|Draw dots on paper.|Extend lines without crossing.|The last player able to move wins.
+859|Draw a track on graph paper.|Move your car with speed changes by one each turn.|First to finish without crashing wins.
+860|Draw a golf course.|Draw strokes toward each hole.|Fewest strokes wins.
+861|One player draws a squiggle.|The other turns it into a picture.|Swap roles and enjoy the art.
+862|Hand out cards with numbers.|Mark called numbers.|First to complete a line shouts Bingo.
+863|Hand out tickets with 15 numbers.|Strike numbers as they are called.|Claim early five, lines or full house for prizes.
+864|Write a phrase and pass it on.|The next person draws it, the next writes what they see.|Compare the final result with the start.
+865|One player sets a secret four-digit number.|Guess; bulls are right digit right place, cows right digit wrong place.|Find the number in fewest tries.
+866|Start with one word and a target word.|Change one letter at a time, making a real word each step.|Reach the target in fewest steps.
+867|Two teams sit facing each other.|Sing a song starting with the last letter of the other team's song.|A team that cannot sing in time loses a point.
+868|Say a word.|The next player says a word starting with its last letter.|A player who cannot answer or repeats a word is out.
+869|Shake the letter cubes in a grid.|Find words of three or more adjacent letters in 3 minutes.|Unique words score; longest words score most.
+870|A hidden five-letter word is chosen.|Guess words; colours show correct letters.|Solve in six tries.
+871|Contestants line up.|Spell a word aloud correctly.|The last speller standing wins.
+872|Seven letters are shown with one in the centre.|Make words using the centre letter.|Reach the top rank.
+873|Get a set of letters.|Rearrange them into words.|Most words wins.
+874|Take turns adding a letter.|Avoid completing a word.|Completing a word earns a letter of GHOST; spelling it out loses.
+875|Each player picks a secret five-letter word.|Guess words; the reply is the number of shared letters.|First to find the word wins.
+876|Pick a tricky phrase.|Say it fast several times.|The clearest speaker wins.
+877|Say a word.|Take turns saying rhyming words.|A player who cannot rhyme is out.
+878|Roll a letter and pick categories.|Write answers starting with that letter.|Unique answers score.
+879|Get a topic.|Speak for 60 seconds without hesitation, repetition or deviation.|Points for challenges and finishing.
+880|The first player says "I packed my bag and in it I put" and an item.|Each player repeats the list and adds the next item in alphabetical order.|Forgetting the list puts you out.
+881|On a road trip, look at signs.|Find letters A to Z in order.|First to Z wins.
+882|Ask riddles.|Others guess the answer.|Correct answers score.
+883|Pick a theme.|Exchange puns.|The player who runs out loses.
+884|Say a word.|The next player says the first related word.|Hesitation puts you out.
+885|Read a rare word.|Players invent definitions; vote on the real one.|Score for fooling others or picking right.
+886|Players get the same crossword.|Race to solve.|First to finish wins.
+887|Play Japanese wordplay like shiritori.|Follow the rules of the game.|The last player standing wins.
+888|Open the app.|Complete lessons and quizzes.|Earn points and streaks.
+889|Ask a Telugu riddle.|Others guess the answer.|Correct answers score.
+890|Ask a Hindi paheli.|Others guess.|Correct answers score.
+891|Describe something with a poetic compound like "whale-road" for sea.|Others guess.|Correct answers score.
+892|The quizmaster prepares general knowledge questions.|Read each question; players or teams answer.|Most points wins.
+893|Prepare film questions.|Ask about films, actors and directors.|Most points wins.
+894|Prepare questions on Indian film industries.|Ask about Bollywood, Tollywood, Kollywood and more.|Most points wins.
+895|Prepare sports questions.|Ask about history and records.|Most points wins.
+896|Prepare music questions.|Ask about songs, artists and albums.|Most points wins.
+897|Prepare history questions.|Ask about events and dates.|Most points wins.
+898|Prepare science questions.|Ask about physics, chemistry and biology.|Most points wins.
+899|Prepare geography questions.|Ask about countries, capitals and rivers.|Most points wins.
+900|Show pictures.|Players identify each one.|Most correct wins.
+901|Give a player 60 seconds.|Ask as many questions as possible.|Most answers in time wins.
+902|Teams have buzzers.|First to buzz answers the question.|Wrong answers may lose points.
+903|Set a board of categories with point values.|Clues are given as answers; reply as a question.|Highest total wins.
+904|One player answers questions of rising value.|Use lifelines like 50:50.|Climb to the top prize.
+905|One contestant answers questions.|Use lifelines.|Reach the top prize.
+906|Survey 100 people for answers.|Two teams guess the most popular answers.|Most points wins.
+907|Teams sit at tables.|Answer rounds of questions on answer sheets.|Highest total wins.
+908|School teams compete.|Answer rounds of questions.|Most points wins.
+909|Teams buzz in for starter questions.|Correct starters earn bonus questions.|Most points wins.
+910|Teams buzz on tossups.|Correct tossups earn bonus questions.|Most points wins.
+911|The host runs a game on a screen.|Players answer on phones.|Fast correct answers score most.
+912|Spin the wheel.|Answer questions to collect characters.|Collect all to win.
+913|Join a live online game.|Answer questions; wrong answers eliminate you.|The last ones standing share the prize.
+914|Read a statement.|Players say true or false.|Correct answers score.
+915|Show 16 items.|Group them into four sets of four with a hidden link.|Find all groups with few mistakes.
+916|Show clues one at a time.|Find the link between them.|Fewer clues needed scores more.
+917|A contestant answers on a specialist subject.|Then answers general knowledge questions.|Most points wins.
+918|Ask fun-fact questions.|Players guess.|Most correct wins.
+919|Show logos or flags.|Players identify them.|Most correct wins.
+920|Turn all pieces face up.|Find edge pieces first, then fill the inside.|Complete the picture.
+921|Scramble the cube.|Twist layers to solve each face.|Make each side one colour.
+922|Scramble the cube.|Inspect for 15 seconds, then solve.|Fastest average time wins.
+923|Scramble a variant puzzle.|Use algorithms to solve it.|Restore all faces.
+924|Take seven tans.|Arrange them to form a silhouette.|Use all pieces with no overlap.
+925|Take 12 pentominoes.|Fit them into a rectangle.|Fill the area exactly.
+926|Stack discs on one peg.|Move one disc at a time; never put a larger disc on a smaller one.|Move the whole stack to another peg.
+927|Mix up the tiles.|Slide tiles into the empty space.|Put tiles 1 to 15 in order.
+928|Arrange blocks in a frame.|Slide blocks to move the big one.|Get the big block out.
+929|Set up cars on a grid.|Slide cars forward or back.|Free the red car.
+930|Take apart interlocking pieces.|Find the moves to separate them.|Reassemble the burr.
+931|Hold the box.|Find the sliding panel moves.|Open the box.
+932|Hold the linked parts.|Twist and turn.|Separate the pieces.
+933|Hold the rings and loop.|Move rings in sequence.|Remove all rings.
+934|Teams enter a themed room.|Find clues and solve puzzles to unlock locks.|Escape before time runs out.
+935|Look at two similar pictures.|Find the differences.|Find all to win.
+936|Look at a busy scene.|Find the hidden character.|Fastest to find wins.
+937|Look at a maze.|Find the path.|Reach the exit.
+938|Walk into a hedge maze.|Find your way.|Reach the centre or exit.
+939|Read the clues.|Fill a grid with deductions.|Solve every pairing.
+940|Read clues about five houses.|Deduce who owns what.|Find who owns the fish.
+941|Ask a riddle.|Others guess.|Correct answers score.
+942|Describe a strange situation.|Players ask yes/no questions.|Solve the story.
+943|Arrange matchsticks into a shape.|Move a set number of sticks.|Make the new shape.
+944|Solve sudoku with extra rules.|Use cages or overlapping grids.|Complete the grid.
+945|Read clues.|Shade cells.|Reveal the picture.
+946|Open a grid of hidden cells.|Click cells; numbers show nearby mines; flag mines.|Clear all safe cells to win.
+947|Start on a 4x4 grid.|Swipe to merge matching tiles.|Reach the 2048 tile.
+948|Blocks fall into a well.|Rotate and move them to complete lines.|Clear lines; lasting longest scores most.
+949|Use portals to move.|Solve physics puzzles in each room.|Reach the exit.
+950|Read cryptic clues with a definition and wordplay.|Solve them.|Fill the grid.
+951|Teams get a first clue.|Solve each clue to find the next.|First to the treasure wins.
+952|Show a picture puzzle.|Work out the phrase.|Correct answers score.
+953|Lay cards face down.|Flip two cards per turn; keep matches.|Most pairs wins.
+954|Show a tray of items.|Cover it and remove one.|Spot what is missing.
+955|The device lights a pattern.|Repeat the light and sound sequence.|Longest sequence wins.
+956|Start a list: "I went to the market and bought...".|Each player repeats the list and adds an item.|Forgetting puts you out.
+957|Show a picture.|Hide it and ask questions.|Most correct answers wins.
+958|Show a number sequence.|Players write it from memory.|Longest correct recall wins.
+959|Imagine a familiar building.|Place items to remember in rooms.|Recall the list.
+960|One player says a sentence.|Each player repeats the story and adds one.|Forgetting puts you out.
+961|Wait for a signal.|Tap as soon as it appears.|Fastest reaction wins.
+962|Show colour words printed in other colours.|Say the ink colour.|Fastest correct answers win.
+963|Give sums.|Solve in your head.|Fastest correct wins.
+964|Use an abacus.|Solve sums by moving beads.|Fastest correct wins.
+965|Learn Vedic tricks.|Solve problems fast.|Fastest correct wins.
+966|Show a set of items.|Find the one that does not fit.|Correct answers score.
+967|Two players count "rock, paper, scissors" together.|Show a hand shape on "shoot".|Rock beats scissors, scissors beat paper, paper beats rock.
+968|Use five hand shapes.|Show one at the same time.|Each shape beats two others.
+969|Say "jan-ken-pon".|Show rock, paper or scissors.|The winning shape wins.
+970|Two players show fingers at once.|Each shouts a guess of the total.|The correct guesser scores.
+971|One player chooses odd and one even.|Both show fingers.|The total decides the winner.
+972|Lock fingers with thumbs up.|Try to pin the other thumb.|Hold it down for three seconds.
+973|One player holds hands palms up under the other's.|Try to slap the top hands.|Pull away in time to avoid it.
+974|Face each other.|Clap patterns to a rhyme.|Do not miss the beat.
+975|Each player holds up one finger on each hand.|Tap hands to add fingers.|Knock out both of the opponent's hands.
+976|Open a brain-training app.|Play daily mini-games.|Beat your own scores.
+977|Show numbers on a screen.|Tap them in order.|Fastest wins.
+978|One player holds a ruler.|Drop it without warning; the other catches.|Shortest drop wins.
+979|The toy calls commands.|Twist, pull or bop as called.|Highest score wins.
+980|Play chess with long time controls.|Use a clock and follow FIDE rules.|Checkmate wins; tournaments use points.
+981|Play with rapid (10+ minutes) or blitz (3 to 5 minutes) clocks.|Move fast and press the clock.|Checkmate or flag the opponent to win.
+982|Randomise the back-row pieces.|Play chess from this position.|Checkmate wins.
+983|Send moves by mail or online.|Take days per move.|Checkmate or resignation wins.
+984|Play xiangqi in tournaments.|Follow clock rules.|Checkmate the general wins.
+985|Play shogi in title matches.|Use clocks and drops.|Checkmate wins.
+986|Play contract bridge at tables.|Bid and play duplicate boards.|Highest matchpoints wins.
+987|Play draughts in championships.|Follow tournament rules.|Win the most games.
+988|Buy into a tournament with chips.|Play hands; blinds rise over time.|The last player with chips wins.
+989|Play Scrabble with a clock.|Score words.|Win the most games.
+990|Play backgammon matches.|Use the doubling cube.|First to the match points wins.
+991|Play in leagues.|Use set rules and scoring.|Most points wins.
+992|Solve sudoku variants against the clock.|Score per puzzle.|Highest total wins.
+993|Memorise cards, numbers or names.|Recall them in timed events.|Highest score wins.
+994|Solve arithmetic mentally.|Answer in time.|Most correct answers wins.
+995|Answer quiz questions on paper.|Questions span categories.|Highest score wins.
+996|Teams get a motion and side.|Argue in timed speeches.|Judges pick the winning team.
+997|Teams play strategy esports titles.|Compete in matches.|Win the tournament.
+998|Play Othello in championships.|Use a clock.|Most discs wins each game.
+999|Play abstract games in tournaments.|Follow the game's rules.|Win the most games.
+1000|Set up 15 reds, six colours and the white cue ball.|Pot a red, then a colour, repeating; then pot colours in order.|Highest points wins the frame.
+1001|Rack 15 balls; break.|Pot all your group (solids or stripes).|Then pot the eight ball to win.
+1002|Rack balls 1 to 9.|Always hit the lowest-numbered ball first.|Pot the nine ball legally to win.
+1003|Rack balls.|Call your shot before each pot.|Pot the ten or reach the target score.
+1004|Use three balls on a snooker table.|Score with pots, in-offs and cannons.|First to the target score wins.
+1005|Use three balls on a pocketless table.|Hit both object balls, touching three cushions first.|First to the target points wins.
+1006|Use 16 white balls and one coloured ball.|Pot any ball off another.|First to pot eight wins.
+1007|Rack balls on a Chinese pool table.|Pot your group, then the eight.|Pot the eight to win.
+1008|Use red and yellow balls.|Pot your colour group.|Pot the black to win.
+1009|Play on a table with holes and pegs.|Pot balls into holes within the time.|Highest score wins.
+1010|Two to four players turn rods with figures.|Move the ball and shoot into goals.|First to 5 or 10 goals wins.
+1011|Strike the puck with a mallet.|Shoot into the opponent's goal.|First to 7 wins.
+1012|Flick football figures.|Pass and shoot the ball.|Most goals wins.
+1013|Slide pucks down the table.|Land them in scoring zones.|First to 15 or 21 wins.
+1014|Launch the ball.|Use flippers to keep it in play and hit targets.|Highest score wins.
+1015|Shoot small steel balls.|They fall through pins into pockets.|Win more balls.
+1016|Stack the wooden tower.|Remove one block and place it on top.|The player who topples the tower loses.
+1017|Turn rods to move players.|Shoot the puck into the goal.|Most goals wins.
+1018|Roll balls up a ramp.|Land them in scoring rings.|Highest score wins.
+1019|Line up three coins.|Flick them through the opponent's finger goal.|Most goals wins.
+1020|Deal hidden roles: loyal team and spies.|Leaders pick teams for missions; spies may sabotage them.|Loyal win three missions, spies sabotage three.
+1021|Deal secret roles in two parties.|Elect governments and pass policies.|Pass enough policies or eliminate the leader.
+1022|Players are crewmates; one or more are impostors.|Complete tasks; impostors eliminate players.|Find the impostor, or impostors eliminate enough crew.
+1023|Sit in a circle.|Pick truth or dare when it is your turn.|Answer honestly or complete the dare.
+1024|Hold up ten fingers.|Say something you have never done.|Anyone who has done it lowers a finger; the last with fingers up wins.
+1025|Ask a dilemma.|Each player picks one option and explains why.|Enjoy the discussion.
+1026|Read "Who is most likely to...".|Point at a person.|The one with the most votes answers.
+1027|Line up chairs, one fewer than players.|Walk round while music plays; sit when it stops.|The player without a chair is out; the last seated wins.
+1028|Wrap a gift in many layers.|Pass it while music plays; unwrap a layer when it stops.|Whoever removes the last layer wins.
+1029|Teams write film titles.|One player acts the title silently.|Teammates guess in time.
+1030|Assign roles and a script.|Gather clues and question suspects.|Name the murderer.
+1031|Pick a song.|Sing along to the backing track and lyrics.|Have fun; contests vote for the best.
+1032|Hand out tickets.|Strike numbers as called.|Claim prizes for patterns.
+1033|Hand out cards.|Mark called numbers.|First complete line wins.
+1034|Spin a bottle.|The person it points to answers a question.|Keep spinning.
+1035|Play the game.|Copy the on-screen dancer's moves.|Highest score wins.
+1036|Hold a bar between two people.|Bend backwards and walk under; lower it each round.|The last to pass under wins.
+1037|Form a line holding hips.|Dance step-step-step-kick.|Keep the line going.
+1038|Sit in a line.|Whisper a message to the next person.|Compare the final message with the original.
+1039|One person hides.|Everyone seeks; finders hide with them.|The last seeker becomes the next hider.
+1040|Put names in a bowl.|Round 1 describe, round 2 one word, round 3 act.|Most names guessed wins.
+1041|Hold a phone to your forehead.|Teammates give clues.|Most words guessed wins.
+1042|Hand out bingo sheets.|Find people matching each square.|First to complete a line wins.
+1043|Whisper a question.|The person answers aloud with a name.|Flip a coin to reveal the question.
+1044|Collect words without context.|Fill them into a story.|Read the silly story aloud.
+1045|Join on phones.|Play mini-games.|Highest score wins.
+1046|Set cups in triangles with water.|Toss balls into the other team's cups.|Remove all cups first to win.
+1047|Teams line up with cups of water.|Drink, then flip your cup upside down.|First team to finish wins.
+1048|One player sits in the hot seat.|Answer rapid questions.|Do not hesitate.
+1049|Ask partners questions separately.|Compare answers.|Most matches wins.
+1050|Two teams sing.|Only film songs are allowed.|A team that cannot reply loses.
+1051|Players step into sacks at the start line.|Hop to the finish line holding the sack.|First across wins.
+1052|Hold a spoon with a lemon in your mouth or hand.|Walk or run to the finish without dropping it.|First to finish wins; a drop means restart.
+1053|Balance an egg on a spoon.|Race without dropping it.|First to finish wins.
+1054|Tie partners' inside ankles together.|Race as a pair.|First pair across wins.
+1055|One partner walks on hands while the other holds their legs.|Race to the finish.|First pair wins.
+1056|Two teams hold a rope.|Pull to drag the marker over your line.|The team that pulls the marker across wins.
+1057|Teams line up.|Each runner passes the baton.|First team to finish wins.
+1058|Set up obstacles.|Climb, crawl and jump through.|Fastest time wins.
+1059|Hide clues.|Teams follow clues.|First to find the treasure wins.
+1060|Give teams a list.|Collect the listed items.|First with all items wins.
+1061|Give each player balloons.|Pop them by sitting on them.|First to pop all wins.
+1062|Tie balloons to ankles.|Stomp others' balloons.|The last with a balloon wins.
+1063|Pairs face each other.|Toss a water balloon; step back after each catch.|The last pair with an unbroken balloon wins.
+1064|Two teams number off; place a bone in the middle.|Call a number; both players race to snatch it.|Get back without being tagged to score.
+1065|Stack cups into pyramids.|Unstack them fast.|Fastest time wins.
+1066|Set up 60-second challenges.|Complete each challenge.|Most completed wins.
+1067|Set up pegs.|Toss rings onto them.|Most ringed wins.
+1068|Set up holes.|Toss bags into them.|Highest score wins.
+1069|A volunteer sits above a tank.|Throw a ball at the target.|Hit it to dunk the volunteer.
+1070|Hang a pot of curd high.|Teams form a human pyramid.|The team that breaks it wins.
+1071|Blindfold the player.|Spin them and let them swing a stick.|Break the pot to win.
+1072|Hang the piñata.|Blindfolded players swing at it.|Break it to release the candy.
+1073|Place a watermelon.|Blindfolded players swing a stick.|Split the melon to win.
+1074|Grease a pole.|Climb or walk along it.|Reach the end to win.
+1075|Release a cheese wheel down a steep hill.|Chase it down.|First to the bottom wins the cheese.
+1076|A man carries a woman over an obstacle course.|Cross water and sand.|Fastest time wins.
+1077|Run holding a pan.|Flip the pancake as you go.|First to finish wins.
+1078|Wear a snorkel and flippers.|Swim two lengths of a bog trench.|Fastest time wins.
+1079|Line up with food.|Eat as many as you can in the time limit.|Most eaten wins.
+1080|Place pies on a table.|Eat with hands behind your back.|First to finish wins.
+1081|Mark a floor area.|Create rangoli designs with colours.|Judges pick the best.
+1082|Fly kites at a festival.|Cut rival strings or fly highest.|The last kite up wins.
+1083|Teams crew snake boats.|Row to the finish.|First boat wins.
+1084|Crews paddle dragon boats.|Race to a drum beat.|First boat wins.
+1085|Teams get raw ingredients.|Make a dish without heat.|Judges pick the best.
+1086|Plan a theme.|Walk the ramp.|Judges pick the winner.
+1087|Sign up acts.|Perform a talent.|Judges or the audience pick the winner.
+1088|Two dancers face off.|Take turns dancing.|Judges or the crowd pick the winner.
+1089|Dress up.|Walk on stage.|Best costume wins.
+1090|Line up bikes.|Ride as slowly as possible without touching the ground.|The last to finish wins.
+1091|Squat down.|Jump like a frog to the finish.|First across wins.
+1092|Spin a hoop.|Keep it going.|Longest spin wins.
+1093|Build sandcastles.|Work within the time limit.|Judges pick the best.
+1094|Get a tyre and a stick.|Roll the tyre with the stick.|First to finish wins.
+1095|Hold a spoon in your mouth with a marble.|Race to the finish.|First without dropping wins.
+1096|Sit on office chairs.|Push with your feet to race.|First across wins.
+1097|Stand in a circle and grab two different hands.|Untangle without letting go.|Form a circle to win.
+1098|Teams get spaghetti, tape, string and a marshmallow.|Build a tower in 18 minutes.|Tallest tower holding the marshmallow wins.
+1099|Teams get materials.|Build a case to protect an egg.|An egg that survives the drop wins.
+1100|Sit back to back.|One describes a picture; the other draws it.|The closest drawing wins.
+1101|Place obstacles on the ground.|Guide a blindfolded partner through with words.|Cross without touching to win.
+1102|One person falls backwards.|The group catches them.|Build trust.
+1103|Prepare company questions.|Teams answer.|Most points wins.
+1104|Fold planes.|Throw from a line.|Furthest flight wins.
+1105|Give teams a survival scenario and item list.|Rank items together.|The closest to the expert ranking wins.
+1106|A group holds a stick on their fingers.|Lower it to the ground together.|Keep everyone's fingers on it.
+1107|Give pipe pieces.|Move a ball along without stopping.|Reach the target.
+1108|Teams use rubber bands and strings.|Stack cups without touching them.|Tallest tower wins.
+1109|Teams get a mystery.|Gather clues.|Solve the crime.
+1110|Teams get a theme.|Build a project in a time limit.|Judges pick the winner.
+1111|Teams cook dishes.|Judges taste.|Best dish wins.
+1112|Groups build LEGO models.|Explain ideas through the models.|Share insights.
+1113|Pair people for short chats.|Rotate every few minutes.|Meet as many people as possible.
+1114|Give a photo list.|Teams capture the shots.|Most photos wins.
+1115|Open a tabletop escape box.|Solve puzzles.|Escape in time.
+1116|Hand out sheets.|Find people matching facts.|First to complete a line wins.
+1117|Teams wear masks and use markers.|Tag opponents with paint.|Complete the mission or eliminate the other team.
+1118|Wear laser vests.|Tag opponents.|Highest score wins.
+1119|Drive karts.|Race laps.|Fastest wins.
+1120|One player is Simon.|Follow commands only when they start with "Simon says".|Players who move at the wrong time are out.
+1121|Sit in a circle; one player walks round tapping heads saying "duck".|Saying "goose" makes that player chase the tapper.|The tapper must sit in the empty spot before being tagged.
+1122|One player is the light at the far end.|Move on "green light" and freeze on "red light".|First to touch the light wins; anyone caught moving goes back.
+1123|The tagger faces a wall and says the phrase.|Players move while it is said and freeze when the tagger turns.|Reach and touch the tagger to win.
+1124|The tagger says the phrase facing away.|Players freeze when the tagger turns.|Touch the tagger to win.
+1125|One player is grandmother with her back turned.|Others sneak up; she turns and sends movers back.|First to touch her wins.
+1126|Mr Wolf stands with his back to players.|They ask the time; he says steps; at "dinner time" he chases.|The tagged player becomes the wolf.
+1127|Play music.|Dance; freeze when it stops.|Anyone moving is out.
+1128|Play music.|Hold a pose when it stops.|Movers are out.
+1129|Pass a ball while music plays.|Pass fast.|Whoever holds it when music stops is out.
+1130|One player says "I spy with my little eye something beginning with...".|Others guess.|The correct guesser goes next.
+1131|Two players form an arch.|Others walk under while singing.|The arch drops to catch someone.
+1132|Hold hands in a circle.|Sing and walk round.|All fall down at the end.
+1133|Form a circle with the farmer in the middle.|Sing and add characters.|The last chosen starts next.
+1134|Draw numbered squares.|Throw a stone and hop through, skipping its square.|First to complete all numbers wins.
+1135|Draw squares.|Hop on one foot, kicking the stone.|Complete the boxes to win.
+1136|Draw the course.|Hop through.|Complete it to win.
+1137|Turn a rope.|Jump with rhymes.|The last skipper wins.
+1138|Two turners swing two ropes.|Jump between them.|Longest jump wins.
+1139|Stretch elastic around two players' ankles.|Jump patterns, raising the height.|Complete patterns to win.
+1140|Draw a ring with marbles.|Flick your shooter to knock marbles out.|Keep the marbles you knock out.
+1141|Scatter jacks.|Bounce a ball and pick up jacks.|Pick up all jacks in order.
+1142|Toss stones.|Catch and pick up stones.|Complete all levels to win.
+1143|Set marbles.|Flick to hit target marbles.|Win marbles.
+1144|Wind string on a top.|Spin it and knock others.|Last top spinning wins.
+1145|Hold a yo-yo.|Perform tricks.|Judges score.
+1146|Spin a hoop on your waist.|Keep it going.|Longest spin wins.
+1147|Hang a donkey poster.|Blindfolded players pin the tail.|Closest wins.
+1148|Dance to music.|Freeze when it stops.|Movers are out.
+1149|Use blocks.|Build anything.|Share your creation.
+1150|Give colouring sheets.|Colour them in.|Judges pick the best.
+1151|Make puppets.|Perform a show.|Enjoy.
+1152|Pick a scenario.|Role-play.|Play freely.
+1153|Two kids sit at the ends.|Push up and down.|Keep balance.
+1154|Sit on swings.|Swing higher.|Highest swing wins.
+1155|Climb up.|Slide down.|Race for fun.
+1156|Grip the bars.|Cross hand over hand.|Reach the end.
+1157|Use sand tools.|Dig and build.|Play freely.
+1158|Fold paper boats.|Race them in rainwater.|First to the finish wins.
+1159|Place a can.|The seeker guards it; others free friends by kicking the can.|Catch everyone to win.
+1160|Hold hands in a circle.|Sing and walk.|All fall down.
+1161|One player is Mother.|Others ask to move steps.|First to reach Mother wins.
+1162|Pass a button secretly.|The guesser watches hands.|Guess who has it.
+1163|One seeker counts.|Others hide.|The first found seeks next.
+1164|Draw chits with roles.|Police guess the thief.|Correct guesses score.
+1165|Draw chits: king, minister, thief and soldier.|The minister guesses the thief.|Correct guesses score points.
+1166|Choose high ground.|The tagger chases those on low ground.|Tagged players become the tagger.
+1167|One player is the tagger.|Tagged players freeze ("ice") until a teammate touches them ("water").|Freeze everyone to win.
+1168|Stack seven flat stones.|Knock them down with a ball and rebuild while dodging.|The team that rebuilds wins.
+1169|Form a circle and sing.|One chases when the song ends.|Tag to win.
+1170|One team hops on one leg.|Tag runners.|Tag all to win.
+1171|One player is it.|Chase and tag another player.|The tagged player becomes it.
+1172|One player is it.|Tagged players freeze until freed by a teammate.|Freeze everyone to win.
+1173|One player is it.|Tag by stepping on someone's shadow.|The tagged player becomes it.
+1174|One player is it.|Tagged players join hands to form a chain.|The last player caught wins.
+1175|Bulldogs stand in the middle.|Runners cross from one side to the other.|Caught runners become bulldogs; the last runner wins.

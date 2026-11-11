@@ -1,0 +1,305 @@
+194|Two fighters wear gloves and shin guards in a ring.|Punch and kick over timed rounds; rules vary on knees and elbows.|Win by knockout, stoppage or judges' points.
+195|Two fighters wear gloves in a ring after the Wai Kru ritual dance.|Strike with fists, elbows, knees and shins and clinch over five rounds.|Win by knockout or judges' decision.
+196|Two fighters wrap their hands in tape with no gloves.|Punch, kick, knee, elbow and headbutt over five rounds.|Traditionally only a knockout wins; otherwise it is a draw.
+197|Two fighters with gloves meet in a ring.|Use punches, kicks, knees and elbows like Muay Thai, with Khmer music playing.|Win by knockout or judges' points.
+198|Two fighters wear gloves and special boots.|Kick with the foot only (no shins or knees) and punch.|Win by points or knockout.
+199|Two fighters meet on a raised platform (lei tai).|Punch, kick and throw; pushing the opponent off the platform scores.|Win by points over rounds or by knockout.
+200|Two wrestlers meet on a circular mat.|Attack the whole body, including legs, to take down and turn the opponent.|Win by pin, 10-point lead or most points.
+201|Two wrestlers meet on a circular mat.|Use only holds above the waist; no leg attacks or trips.|Win by pin, 8-point lead or most points.
+202|Two wrestlers in mawashi belts face off in a circular ring (dohyo).|Charge at the start and push, slap or throw the opponent.|The first to leave the ring or touch the ground with anything but the feet loses.
+203|Two wrestlers in loincloths compete in a soft earth pit (akhada).|Grip, throw and pin using traditional holds.|Pinning both shoulders to the earth wins.
+204|A gymnast performs on a vertical wooden pole or hanging rope.|Climb, twist, balance and hold poses on the pole.|Judges score difficulty and execution.
+205|Practise in a kalari pit with a guru.|Learn body conditioning, kicks, then sticks, swords and shields.|Progress through levels; demonstrations are judged on skill.
+206|Use a long bamboo staff.|Spin and strike in patterns, working on footwork and speed.|In matches, touches score points; in forms, judges score skill.
+207|Practise with sticks and shields or traditional weapons.|Spar using strikes and blocks with circular footwork.|Touches score points in competition.
+208|Learn sword (thang) and spear (ta) techniques.|Practise forms and sparring with stick-swords and shields.|Judges score technique and touches.
+209|Train with weapons like sword, spear and lathi.|Perform drills and weapon demonstrations.|Judges score skill and control.
+210|Two karateka in gi meet on a mat, or one performs kata.|In kumite, score with controlled punches and kicks; in kata, perform set forms.|Most points in kumite or highest judged kata score wins.
+211|Two fighters wear armour and use bamboo swords (shinai).|Strike the head, wrists, body or throat with correct spirit and shout.|The first to two valid points wins.
+212|Partners train on a mat, one attacking and one defending.|Redirect the attacker's energy into throws and joint locks.|There is no winner; progress is graded by belt tests.
+213|Two players in gi meet on a mat.|Use throws, joint locks and strikes from traditional forms.|Win by technique scores or submission.
+214|Two grapplers in gi meet on a mat.|Take down, pass guard and control positions; aim for chokes or joint locks.|Win by submission or points.
+215|Practise on a mat with a partner.|Use kicks, strikes, joint locks and throws for self-defence.|Progress is graded by belts; sparring is scored in some events.
+216|Two wrestlers tie a satba belt around the waist and thigh.|Start kneeling with grips on each other's belts, then stand and throw.|The first to touch the ground with anything above the knee loses.
+217|Choose forms (taolu) or sparring (sanda).|Perform set routines or spar with kicks, punches and throws.|Judges score forms; sparring is won on points.
+218|Stand relaxed with feet shoulder-width apart.|Move slowly through a sequence of flowing postures with deep breathing.|There is no winner; competitions judge form and balance.
+219|Train with a partner at close range.|Use straight-line punches, chain punches and sticky-hands drills.|Progress is graded by skill.
+220|Two wrestlers wear jackets and belts.|Grip the jacket and throw the opponent to the ground.|Throws and takedowns score; most points wins.
+221|Two fighters in black uniforms meet on a mat.|Strike, kick, sweep and take down using silat techniques.|Judges score techniques; most points wins.
+222|Two fighters use rattan sticks, often with padding.|Strike to target areas using angles and flowing patterns.|Clean hits score points.
+223|Train with strikes, grappling and weapon drills.|Use elbows, knees, headbutts and locks in sequences.|Graded by krama colour; competitions are judged.
+224|Practise on a mat.|Use kicks, punches, scissor takedowns and leg throws.|Sparring is scored on points.
+225|Two wrestlers wear vests and boots outdoors.|Grip and throw; there are no rounds or weight classes.|The first to touch the ground with anything but the feet loses.
+226|Two wrestlers wear jackets and belts.|Throw the opponent using only standing techniques; ground fighting is not allowed.|A clean throw onto the back wins outright.
+227|Train in a domed pit (gowd) led by a drummer.|Swing heavy clubs, spin and do push-ups to rhythm.|There is no winner; it builds strength and spirit.
+228|Two wrestlers in leather trousers cover themselves in olive oil.|Grip the trousers (kispet) to control and lift the opponent.|Pinning the opponent's back or lifting him wins.
+229|Two fighters wear jackets and shorts.|Throw and use leg locks and arm locks; combat sambo adds strikes.|Win by total victory (clean throw or submission) or points.
+230|Train with partners on breathing, movement and relaxation.|Defend against strikes and grabs with flowing movement.|There is no competition; skill grows with practice.
+231|Train with a partner and pads.|Learn to neutralise threats with strikes, blocks and escapes.|Progress by level; there are no sport matches.
+232|Players form a circle (roda) with music from the berimbau.|Two players move in the ginga, kicking, dodging and doing acrobatics.|There is no winner; the game is played, not fought.
+233|Two wrestlers enter an arena after rituals.|Grapple and strike with bare hands to knock the opponent down.|The first to touch the ground with back, knees or hands loses.
+234|Two fighters wrap one hand as a spear and use the other as a guard.|Strike with the wrapped hand in short rounds.|Win by knockdown or three rounds.
+235|Two fighters each hold a striking stick and a defending stick.|Strike and block within fair rules.|A clear hit or a surrender ends the bout.
+236|Two fighters use long wooden poles.|Strike each other in a ritual duel.|The fighter who stays standing wins.
+237|Two players move in a circle.|Kick, sweep and evade with acrobatic, dance-like moves.|There is no formal scoring; skill is judged by onlookers.
+238|Two wrestlers wear special belts around the waist and thighs.|Grip each other's belts, step clockwise and use trips and throws.|Throwing the opponent so they touch the ground wins.
+239|Two wrestlers wear short canvas trousers in a sawdust ring.|Grip the opponent's trousers and throw them.|Pinning both shoulder blades wins.
+240|Two wrestlers wear canvas jackets.|Grip the jacket and throw.|Landing the opponent on three of four points (shoulders and hips) wins.
+241|Masked wrestlers enter a ring.|Use high-flying moves and holds in scripted matches.|Win by pinfall, submission or the storyline result.
+242|Wrestlers perform scripted matches in a ring.|Use holds, throws and aerial moves to tell a story.|The planned winner gets a pin, submission or count-out.
+243|Two fighters wear small gloves in a cage or ring.|Strike, wrestle and submit over three or five rounds.|Win by knockout, submission or judges' decision.
+244|Two fighters wrap their hands but wear no gloves.|Punch only, over short rounds.|Win by knockout or judges' points.
+245|Two fencers use a light foil.|Score with the point on the torso; right of way decides double touches.|First to 15 touches wins.
+246|Two fencers use a heavier épée.|Score with the point anywhere on the body; double touches count for both.|First to 15 touches wins.
+247|Two fencers use a sabre.|Hit with the edge or point above the waist; right of way applies.|First to 15 touches wins.
+248|Fighters wear protective gear with blunt steel or synthetic swords.|Use techniques from historical manuals in free sparring.|Clean hits score points; most points wins.
+249|Two people grip hands with elbows on a table.|On "go", push to force the opponent's hand down.|Touching the opponent's hand to the pad wins.
+250|Two grapplers wear rash guards and shorts.|Take down and control; aim for chokes or locks.|Win by submission or points.
+251|Two fighters wear only gi and limited pads.|Punch the body and kick anywhere; no punches to the head.|Win by knockdown or judges' decision.
+252|Train with pads, sparring and drills.|Use simple, direct attacks and intercept the opponent.|There is no formal sport; skill is personal.
+253|Train with traditional farming-tool weapons such as bo and sai.|Practise kata with each weapon.|Graded by skill.
+254|Train in strikes, locks and animal-style systems.|Practise with and without weapons.|Graded by level.
+255|Two teams of seven play on a court divided in half.|A raider crosses, tags defenders and returns in one breath chanting "kabaddi"; defenders try to tackle.|Each tag or tackle scores a point; most points wins.
+256|Swimmers start from blocks in lanes.|Swim front crawl over set distances.|Fastest time wins.
+257|Swimmers start in the water holding the wall.|Swim on the back using alternating arm strokes.|Fastest time wins.
+258|Dive in from blocks.|Pull with both arms together and use a frog kick, touching the wall with both hands.|Fastest time wins.
+259|Dive in from blocks.|Move both arms together over the water with a dolphin kick.|Fastest time wins.
+260|Swim one leg each of butterfly, backstroke, breaststroke and freestyle.|Turn correctly between strokes.|Fastest time wins.
+261|Swim in lakes, rivers or the sea, often 5 to 25 km.|Navigate around buoys and handle currents.|First to finish wins.
+262|Dive from a springboard (1 m or 3 m) or platform (10 m), alone or synchronised.|Perform somersaults and twists, entering the water cleanly.|Judges score execution times difficulty; highest total wins.
+263|Dive from 20 to 27 m.|Enter feet first after acrobatic moves in the air.|Judges score execution and difficulty.
+264|Swim solo, in duets or teams to music.|Perform lifts, figures and patterns, often upside down.|Judges score execution, artistry and difficulty.
+265|Race in kayaks or canoes in straight lanes.|Paddle as fast as possible over 200 m to 1000 m.|First across the line wins.
+266|Paddle through a whitewater course with hanging gates.|Go through green gates downstream and red gates upstream.|Fastest time plus penalties wins.
+267|Four paddlers start from a ramp.|Race through gates and do an Eskimo roll on the way.|First across the line advances.
+268|A team of paddlers sits in a long boat with a drummer and a steerer.|Paddle in sync to the drumbeat.|First boat to finish wins.
+269|Rowers crew a long snake boat with singers keeping rhythm.|Paddle together down the backwaters.|First boat across wins.
+270|Paddle a canoe with an outrigger float, alone or as a crew.|Race across open ocean or lagoons, switching sides in rhythm.|First to finish wins.
+271|Stand on a large board with a long paddle.|Paddle across flat water or ride waves.|Race to finish first, or ride for fun.
+272|Lie on a short foam board in the surf.|Kick out and catch waves; do spins and rolls.|Judges score wave riding.
+273|Stand on a board with a sail attached.|Use the wind to sail and turn; jump waves in freestyle.|Win races or judged freestyle.
+274|Stand on a board pulled by a large kite.|Steer the kite to ride, jump and do tricks.|Race or judged tricks decide winners.
+275|Sail a small dinghy or a larger yacht around a marked course.|Use the wind, round marks in order and follow right-of-way rules.|First to finish or lowest points over races wins.
+276|Teams race high-tech foiling yachts in match races.|Two boats race head-to-head around a course.|First to win the set number of races takes the Cup.
+277|Ride a board towed by a boat.|Use the wake to jump and do tricks.|Judges score tricks.
+278|Ski behind a boat on one or two skis.|Slalom around buoys, jump ramps or do tricks.|Most buoys, longest jump or highest trick score wins.
+279|Ride a personal watercraft on a buoy course.|Race laps through turns and waves.|First to finish wins.
+280|Drive powerful boats on water circuits.|Race laps around buoys at high speed.|First to finish wins.
+281|Wear a monofin or bi-fins.|Race underwater or on the surface.|Fastest time wins.
+282|Dive on a single breath.|Go as deep or far as possible, or hold your breath as long as possible.|The greatest depth, distance or time wins.
+283|Dive on a breath with a spear gun.|Hunt fish within the rules in a time limit.|Heaviest total catch wins.
+284|Wear a tank, mask and fins after training.|Dive with a buddy and explore underwater.|It is for exploring; there is no winner.
+285|Lifeguards compete in pools and surf.|Do rescue races, board paddles and manikin carries.|Fastest times win.
+286|Climb to a cliff edge above deep water.|Dive with flips and twists, entering feet first.|Judges score dives.
+287|A team sits in an inflatable raft with paddles.|Paddle through rapids, following the guide's commands.|Races are timed; fastest team wins.
+288|Swim first, then run.|Change quickly in transition.|First to finish wins.
+289|Fish from a bank or boat within a set time.|Use rod and line under the competition rules.|Most or heaviest fish wins.
+290|Ski down the longest, steepest course.|Race at very high speed with few turns.|Fastest single run wins.
+291|Ski through closely set gates.|Make quick, tight turns over two runs.|Fastest combined time wins.
+292|Ski through gates set wider than slalom.|Make long, smooth turns over two runs.|Fastest combined time wins.
+293|Ski a course faster than giant slalom but with more turns than downhill.|Race one run.|Fastest time wins.
+294|Ski down a bumpy course with two jumps.|Absorb bumps and do tricks off the jumps.|Judges score turns, air and speed.
+295|Ski off a steep kicker into the air.|Perform flips and twists and land cleanly.|Judges score air, form and landing.
+296|Four skiers start together on a course.|Race over jumps, rollers and turns.|First two across the line advance.
+297|Ski a course of rails and jumps, or a halfpipe.|Perform tricks in runs.|Judges' best run score wins.
+298|Ride down a U-shaped halfpipe.|Perform aerial tricks on each wall.|Judges score the best run.
+299|Ride a course of rails and jumps, or one giant jump.|Perform tricks and land cleanly.|Judges score the best run.
+300|Four to six riders start together.|Race over jumps, berms and rollers.|First across the line advances.
+301|Two riders race side by side on parallel courses.|Go through gates as fast as possible.|The faster rider advances.
+302|A couple skates to music.|Perform dance steps, lifts and twizzles.|Judges score technical and artistic elements.
+303|Use ice axes and crampons on frozen falls.|Climb the route on ropes.|Fastest or highest climb wins.
+304|Wear snowshoes on snow.|Run or walk the course.|Fastest time wins.
+305|A musher drives a sled pulled by a dog team.|Race over long snowy trails, caring for the dogs.|Fastest time wins.
+306|A skier is pulled by a horse, dog or vehicle.|Race over a snowy course with jumps.|Fastest time wins.
+307|Teams slide ice stocks on ice.|Aim the stocks near the target.|Closest stocks score points.
+308|Two teams of four play on snow with horses and mallets.|Hit a light ball into the goal.|Most goals wins.
+309|Drill a hole in the ice.|Drop a line and wait for a bite.|In contests, most or biggest fish wins.
+310|Two teams of seven have shelters and 90 snowballs each.|Throw snowballs to hit opponents and capture the enemy flag.|Capture the flag or eliminate more players to win.
+311|Race snowmobiles on snowy tracks.|Navigate jumps and turns.|First across wins.
+312|Ski downhill in standing, sitting or visually impaired classes.|Race through gates like Olympic alpine events.|Factored time decides the winner.
+313|Twenty drivers race open-wheel cars around world circuits.|Qualify for grid position, then race about 300 km with pit stops.|Points by finishing position; most points wins the championship.
+314|Drivers race electric single-seaters on city circuits.|Use energy wisely and activate Attack Mode for extra power.|Points by finishing; most points wins the title.
+315|Drivers race open-wheel cars on ovals, roads and street courses.|Draft and pit for fuel and tyres.|First across the line wins; points decide the title.
+316|About 40 drivers race stock cars on ovals.|Race in stages, drafting closely at high speed.|First across the line wins; playoffs decide the champion.
+317|Teams of drivers share one car.|Race for 24 hours, changing drivers and refuelling.|The car covering the most distance wins.
+318|Drivers race sports cars based on road models.|Race for set times with driver changes.|First across the line in each class wins.
+319|Drivers race modified saloon cars.|Close racing with plenty of contact.|First across the line wins.
+320|Driver and co-driver race on closed roads.|The co-driver reads pace notes on each timed stage.|Lowest total time wins.
+321|Cars, bikes and trucks race across deserts.|Navigate long stages over many days.|Lowest total time wins.
+322|Drivers race short laps on mixed tarmac and gravel.|Take the joker lap once per race.|First across wins.
+323|Two cars line up on a straight strip.|Launch when the lights go green and race a quarter mile.|First across the line wins.
+324|Drivers slide cars sideways through corners.|Follow lines and angles set by judges.|Judges score line, angle and style.
+325|Drivers race small karts on short tracks.|Race heats and finals.|First across the line wins.
+326|One driver at a time races up a hill road.|Drive the course as fast as possible.|Fastest time wins.
+327|Drive a giant truck in an arena.|Race or perform jumps, wheelies and crushes.|Judges score freestyle; fastest wins racing.
+328|Drivers enter an arena in old cars.|Ram other cars to disable them.|The last car still moving wins.
+329|Riders race prototype motorbikes on circuits.|Qualify, then race around 20 laps.|First across the line wins; points decide the title.
+330|Riders race modified production bikes.|Race laps on road circuits.|First across wins.
+331|Riders race on dirt tracks with jumps.|Race two motos over rough terrain.|Best combined results win.
+332|Riders race dirt tracks built inside stadiums.|Race tight laps with big jumps.|First across wins.
+333|Riders race long off-road courses.|Pass checkpoints within set times.|Lowest total time wins.
+334|Four riders race on an oval dirt track.|Bikes have no brakes; slide through turns over four laps.|First across scores the most points.
+335|Riders race on public roads closed for the event.|Each rider starts alone at intervals around the 60 km course.|Fastest time wins.
+336|Riders jump bikes off ramps.|Perform tricks in the air.|Judges score the best run.
+337|Riders cross sections of rocks and logs.|Keep feet off the ground.|Fewest penalty points win.
+338|A driver and a passenger ride a three-wheeled machine.|The passenger shifts weight to help in corners.|First across wins.
+339|Drivers race heavy truck tractors on circuits.|Race laps with speed limits.|First across wins.
+340|Pilots fly planes around pylons.|Race close to the ground on a set course.|Fastest time wins.
+341|Drivers race catamaran powerboats.|Race laps around buoys.|First across wins.
+342|Drivers use a racing simulator with wheel and pedals.|Race online or in esports events.|First across the line wins.
+343|Riders race on roads in teams.|Use drafting, breakaways and sprints over one day or several stages.|First across or lowest total time wins.
+344|Teams race over three weeks of stages.|Each stage is timed; jerseys reward leaders.|Lowest total time wins the general classification.
+345|Riders race alone against the clock.|Ride aerodynamic bikes over a set course.|Fastest time wins.
+346|Two riders race on a velodrome.|Use tactics, then sprint the final lap.|First across the line wins.
+347|Six or seven riders follow a pacing motorbike.|The pace bike leaves with three laps to go and riders sprint.|First across wins.
+348|Riders race several events or team relays.|In the Madison, partners hand-sling each other into the race.|Most points wins.
+349|Riders race laps on off-road trails.|Climb and descend rough terrain.|First across wins.
+350|Riders race downhill one at a time.|Ride fast over rocks, roots and jumps.|Fastest time wins.
+351|Riders race timed downhill stages.|Ride uphill between stages without timing.|Lowest total time wins.
+352|Eight riders start from a ramp.|Race over jumps and berms.|First across wins.
+353|Riders use parks or street areas.|Perform tricks on ramps and rails.|Judges score the best run.
+354|Riders race laps on grass, mud and sand.|Dismount to carry bikes over barriers.|First across wins.
+355|Riders race long routes on gravel roads.|Manage fuel and terrain.|First across wins.
+356|Riders cross obstacles.|Keep feet off the ground.|Fewest penalty points win.
+357|Riders perform routines on fixed-gear bikes indoors.|Show balance and figures.|Judges score the routine.
+358|Two riders per side play on a small court.|Move the ball with bike wheels.|Most goals wins.
+359|Riders race on bikes, handcycles, trikes or tandems.|Compete in impairment classes.|Fastest time or first across wins.
+360|Ride a single-wheeled cycle.|Race or perform tricks.|Fastest or best judged wins.
+361|Riders line up on a short track.|Ride as slowly as possible without putting a foot down.|The last to cross without touching the ground wins.
+362|Ride a smart trainer connected to an app.|Race avatars on virtual courses.|First across wins.
+363|Rider and horse enter an arena with fences.|Jump all fences in order within the time.|Fewest faults and fastest time win.
+364|Rider and horse perform a set test.|Show precise movements and transitions.|Judges score each movement; highest percentage wins.
+365|Compete in dressage, cross-country and show jumping.|Penalties add up over all three tests.|Lowest total penalty score wins.
+366|Jockeys ride horses on a flat track.|Race from the starting gates.|First horse across wins.
+367|Horses race over fences and ditches.|Jockeys guide them over each obstacle.|First across wins.
+368|Horses trot or pace pulling a sulky.|Race without breaking gait.|First across wins.
+369|Riders cover 40 to 160 km.|Vets check horses at checkpoints.|Fastest healthy horse wins.
+370|Riders on horses grab a goat carcass.|Carry it around a post and drop it in the goal circle.|Most goals wins.
+371|Two teams on horseback compete for the carcass.|Carry it into the opponent's goal.|Most goals wins.
+372|Cowboys and cowgirls compete in events.|Ride bucking bulls for 8 seconds or race around barrels.|Judges' scores or fastest time win.
+373|Charros compete in nine events.|Show horsemanship, roping and riding skills.|Judges score each event.
+374|Vaulters perform gymnastics on a cantering horse.|A lunger controls the horse in a circle.|Judges score the routine.
+375|Rider and horse perform set western patterns.|Do spins, sliding stops and circles.|Judges score each manoeuvre.
+376|A rider gallops with a lance.|Spear a wooden peg and carry it away.|Points for clean picks wins.
+377|Two teams of four ride horses.|Pick up the ball with handles and pass at least three times.|Most goals in the hoops wins.
+378|Two teams of four ride horses.|Grab the ball with handles and pass.|Throw through the opponent's ring to score.
+379|Camels race on desert tracks.|Robot jockeys or riders guide them.|First across wins.
+380|Two male camels meet in an arena.|They push and lean on each other.|The camel that retreats or falls loses.
+381|Pairs of buffaloes run through a muddy track.|A farmer guides them along the course.|Fastest time wins.
+382|A bull is released into a crowd.|Participants try to hold its hump for a set distance or time.|Holding on wins the prize.
+383|Bulls pull carts on a dirt track.|Drivers race laps.|First across wins.
+384|A handler guides a dog through a course.|The dog runs tunnels, jumps and weaves off-leash.|Fastest clean run wins.
+385|Dogs pull a musher's sled.|Race over snowy trails.|Fastest time wins.
+386|Greyhounds start from traps.|Chase a mechanical lure around a track.|First dog across wins.
+387|Release homing pigeons far from home.|They fly back to their lofts.|Fastest average speed wins.
+388|A falconer trains a bird of prey.|The bird hunts or flies to a lure.|Competitions judge speed or flight.
+389|Riders mount ostriches.|Race around a track.|First across wins.
+390|A handler sends a dog to herd sheep.|Use whistles to steer sheep through gates and into a pen.|Judges score the run.
+391|Shoot at a 122 cm target from 70 m with a recurve bow.|Shoot arrows in ends; score from 10 at centre to 1.|Set points decide the match.
+392|Use a compound bow with pulleys and a sight.|Shoot at 50 m with a smaller 10 ring.|Highest total score wins.
+393|Walk a course in the woods.|Shoot at targets at varied distances.|Highest score wins.
+394|Follow the eight steps of shooting (hassetsu).|Shoot at a target 28 m away.|Correct form and hits are judged.
+395|Two teams shoot blunt arrows.|Aim at opponents' legs while dancing.|Hits score points.
+396|Shoot from prone, kneeling or standing.|Aim at a 10-ring target.|Highest score wins.
+397|Shoot air or rapid-fire pistol.|Aim at targets within time limits.|Highest score wins.
+398|Shoot at clay targets launched in the air.|Use a shotgun with two shots.|Most clays broken wins.
+399|Play a short course of holes with obstacles.|Putt the ball into each hole.|Fewest total strokes wins.
+400|Throw discs toward a chain basket.|Count each throw.|Fewest throws wins.
+401|Kick a football around a golf course.|Count kicks to sink into big holes.|Fewest kicks wins.
+402|Stand behind the line facing a dartboard.|Throw three darts per turn, scoring from 501 down to zero.|Finish exactly on a double to win the leg.
+403|Roll a ball down a lane at ten pins.|Get two rolls per frame over ten frames.|Highest total score wins; strikes and spares earn bonuses.
+404|Roll smaller balls at thinner or shorter pins.|Get three balls per frame.|Highest total score wins.
+405|Roll balls at nine pins arranged in a diamond.|Score the pins knocked down.|Highest total wins.
+406|Roll biased balls on a green.|Get them closest to the small white jack.|Closest bowls score points.
+407|Stand in a circle and throw metal balls.|Get closest to the small cochonnet.|First to 13 points wins.
+408|Throw balls toward the small pallino.|Get closest and knock away opponents' balls.|First to 12 or more points wins.
+409|Throw a wooden cheese or ball at nine pins.|Knock down as many as possible.|Most pins wins.
+410|Hit balls with a mallet.|Go through hoops in order and hit the peg.|First to finish wins.
+411|Throw horseshoes at a stake 12 m away.|A ringer circles the stake.|Ringers score 3, close shoes 1; first to 40 wins.
+412|Toss bean bags at a board with a hole.|Players alternate throws.|In the hole scores 3, on the board 1; first to 21 wins.
+413|Throw wooden batons at the opponent's kubbs.|Knock all kubbs over first.|Then knock down the king to win.
+414|Throw a wooden pin at numbered pins.|One pin knocked scores its number; several score the count.|Reach exactly 50 points to win.
+415|Stand behind the line facing a wooden target.|Throw an axe so it sticks.|Highest score after rounds wins.
+416|Throw knives at a wooden target.|Make the blade stick.|Highest score wins.
+417|Slide discs with a cue on a long court.|Land them in scoring zones.|First to 75 points wins.
+418|Slide weighted pucks on a long table.|Get pucks to the far end without falling off.|First to 15 or 21 wins.
+419|Roll bowls on a carpet indoors.|Get close to the jack.|Closest bowls score.
+420|Stack flat stones in a pile.|Throw a ball to knock it down, then rebuild while dodging hits.|The team that rebuilds wins.
+421|Use a slingshot.|Aim at targets at set distances.|Highest score wins.
+422|Blow darts through a tube.|Aim at a target.|Highest score wins.
+423|Throw a metal puck at a clay board with gunpowder packets.|Explode the packets or land near the centre.|First to 27 points wins.
+424|Toss coins at a table with a brass frog.|Get coins into the frog's mouth for top points.|Highest score wins.
+425|Throw boules close to the jack.|Knock away opponents' balls.|First to 13 points wins.
+426|Gymnasts perform on floor, vault, bars, beam and rings.|Show difficulty and clean execution.|Judges' total score decides the winner.
+427|Perform to music with a hoop, ball, clubs or ribbon.|Combine dance, leaps and throws.|Judges score difficulty and artistry.
+428|Bounce on a trampoline.|Perform ten skills in a routine.|Judges score difficulty, execution and flight time.
+429|Pairs or groups balance and throw partners.|Perform balance and dynamic routines.|Judges score the routine.
+430|Perform high-energy routines to music.|Show jumps, push-ups and kicks.|Judges score the routine.
+431|Run down a long spring track.|Perform flips and twists in passes.|Judges score difficulty and execution.
+432|Move through a city or obstacle course.|Jump, vault and climb efficiently.|Races are timed; style contests are judged.
+433|Perform yoga asanas on a mat.|Hold poses with balance and control.|Judges score each pose.
+434|Teams perform routines on a mat.|Show stunts, pyramids, jumps and tumbling.|Judges score the routine.
+435|Perform on a vertical pole.|Show climbs, spins and holds.|Judges score difficulty and artistry.
+436|Climb fabric or hoops hanging in the air.|Perform wraps, drops and poses.|Shows are judged on skill.
+437|Two dancers battle.|Show toprock, footwork, freezes and power moves.|Judges vote for the winner.
+438|Couples dance standard or Latin styles.|Perform on a shared floor.|Judges rank couples.
+439|Lift in three events: squat, bench press and deadlift.|Get three attempts at each.|Highest total in the weight class wins.
+440|Train and diet for a physique.|Pose on stage before judges.|Judges score muscle size and symmetry.
+441|Athletes compete in events like log press and truck pull.|Each event awards points.|Highest total wins.
+442|Compete in heavy events.|Toss the caber, throw the hammer and stone.|Best scores win each event.
+443|Athletes face surprise workouts.|Complete reps, lifts and runs fast.|Points per event; highest total wins.
+444|Perform bodyweight moves.|Show strength holds and dynamic tricks.|Judges score the routine.
+445|Two teams of eight hold a rope.|Pull to drag the opponent over the line.|The team that pulls the marker across wins.
+446|Lift a heavy stone from the ground.|Raise it to the shoulder as many times as possible.|Most lifts or heaviest stone wins.
+447|Grip test devices.|Close grippers or lift with fingers.|Strongest grip wins.
+448|Lift kettlebells continuously.|Do jerk or snatch reps in 10 minutes.|Most reps wins.
+449|Run 1 km eight times.|Do a workout station after each run.|Fastest total time wins.
+450|Jump rope for speed or freestyle.|Count jumps or perform tricks.|Most jumps or best judged routine wins.
+451|Climb rock routes with a rope and quickdraws.|Clip bolts as you climb.|Reach the top without falling.
+452|Climb short walls without rope over crash pads.|Solve problems in few attempts.|Most tops wins.
+453|Two climbers race up a standard 15 m wall.|Climb as fast as possible.|First to hit the top pad wins.
+454|Prepare gear and acclimatise.|Climb high peaks with ropes and camps.|Reach the summit safely.
+455|Climb rock without ropes.|Only experts attempt this.|Reach the top safely.
+456|Skate a street course.|Do tricks on stairs and rails.|Judges score runs and tricks.
+457|Skate bowls and ramps.|Do airs and grinds.|Judges score the run.
+458|Skate a park on inline skates.|Grind rails and jump ramps.|Judges score tricks.
+459|Two teams of five skate on a track.|A jammer scores by lapping opposing blockers.|Most points wins.
+460|Get towed in or paddle into huge waves.|Ride waves over 6 m.|Judges score the biggest ride.
+461|Ride off marked runs.|Navigate natural terrain.|Ride safely with avalanche gear.
+462|Attach a bungee cord.|Jump from a platform.|Experience the drop and rebound.
+463|Climb a wooden tower.|Jump with vines tied to the ankles.|A ritual for a good harvest.
+464|Jump from buildings, antennas, spans or earth.|Open a parachute.|Land safely.
+465|Wear a suit with fabric wings.|Jump from a plane or cliff and glide.|Open a parachute to land.
+466|Jump from a plane.|Freefall, then open the parachute.|Land safely.
+467|Launch from a hill under a wing.|Use thermals to stay up.|Land safely or compete in distance.
+468|Run off a hill holding a glider.|Steer with weight shift.|Land safely or race.
+469|Clip onto a cable.|Slide down the line.|Ride for fun.
+470|A team paddles a raft.|Navigate rapids following commands.|Get down safely; races are timed.
+471|Descend canyons.|Rappel, jump and swim.|Finish the route safely.
+472|Explore caves with lights and helmets.|Crawl and climb through passages.|Explore safely.
+473|Ride a board down sand dunes.|Carve turns.|Ride for fun or race.
+474|Ride a mountain board or buggy pulled by a kite.|Steer the kite for speed.|Race or perform tricks.
+475|Ride a unicycle off-road.|Handle rocks and trails.|Finish the trail.
+476|Walk a flat line tensioned between anchors.|Balance step by step.|Cross the line.
+477|Climb into a giant inflatable ball.|Roll downhill.|Ride for fun.
+478|Hike up a volcano.|Slide down on a board.|Ride for fun or speed.
+479|Teams navigate a course over days.|Combine trekking, biking and paddling.|First team to finish wins.
+480|Swim 3.8 km, cycle 180 km and run 42.2 km.|Race in one day.|Finish within the cut-off; fastest wins.
+481|Run, then cycle, then run.|Transition quickly.|First to finish wins.
+482|Use a map and compass.|Find checkpoints in order.|Fastest time wins.
+483|Teams have a long time limit.|Visit any checkpoints for points.|Most points wins.
+484|Use GPS coordinates.|Find hidden caches.|Log your find.
+485|Hike long trails or races.|Manage pace and supplies.|Finish the route.
+486|Swim in water below 5 °C.|Race short distances.|Fastest time wins.
+487|Jump from a plane in teams.|Build formations in freefall.|Most formations wins.
+488|Fly paragliders.|Land on a target or cover distance.|Closest landing or longest flight wins.
+489|Get towed up in a glider.|Use rising air to stay aloft.|Fastest or longest flight wins.
+490|Pilots fly set sequences.|Perform loops and rolls.|Judges score precision.
+491|Launch balloons.|Navigate to targets and drop markers.|Closest drops win.
+492|Pilots fly drones with goggles.|Race through gates.|First to finish wins.
+493|Fly model aircraft by radio.|Perform manoeuvres or race.|Judges or timers decide.
+494|Wear a motor and fly a paraglider.|Fly courses.|Precise flying wins.
+495|Jump in a wingsuit.|Fly a timed course.|Fastest wins.
+496|Fly kites with glass-coated strings.|Cut rival kite strings.|The last kite flying wins.
+497|Fly two-line or four-line kites.|Perform tricks and routines.|Judges score.
+498|Enter a vertical wind tunnel.|Fly with body positions.|Judges score routines.

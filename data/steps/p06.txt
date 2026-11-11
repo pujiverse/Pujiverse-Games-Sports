@@ -1,0 +1,350 @@
+1176|Split into cops and robbers and mark a jail.|Cops chase and tag robbers, then take them to jail; free robbers can release prisoners.|Cops win by jailing every robber.
+1177|Two teams each hide a flag in their own half.|Sneak into enemy territory to grab their flag; tagged players go to jail.|First team to bring the enemy flag home wins.
+1178|Blindfold one player in a safe, open space.|Others move around and call out; the blindfolded player tries to catch and name someone.|The caught player becomes the next catcher.
+1179|Play in a pool; the seeker closes their eyes.|The seeker calls "Marco"; everyone else must answer "Polo".|The tagged player becomes the next seeker.
+1180|One player is the tagger.|Tagging someone says "vish" (poison) and freezes them; a teammate frees them with "amrit" (nectar).|The tagger wins by freezing everyone.
+1181|One player is the chaser.|Each tagged player joins hands with the chain, which keeps chasing.|The last free player wins.
+1182|Eight chasers of the twelve sit in a line facing alternate ways; three runners enter.|The active chaser tags runners and passes the chase by touching a seated teammate and saying "kho".|Most runners tagged in each turn wins.
+1183|Cover one player's eyes.|They try to catch and identify others.|The caught player catches next.
+1184|One player counts.|Others hide.|The first found seeks next.
+1185|Agree on what counts as high ground.|The chaser can only tag players standing low.|The tagged player becomes the chaser.
+1186|Open the AR game on your phone.|Walk around to find and catch virtual creatures.|Catch the most or complete your collection.
+1187|Play outdoors at dusk with set boundaries.|Hunters search while others hide and move.|The last uncaught player wins.
+1188|Sharks stand in the middle; minnows line up at one end.|Minnows run across when the shark calls.|Tagged minnows become sharks; the last minnow wins.
+1189|The octopus stands in the middle.|Fish run across; tagged fish become tentacles that tag from where they stand.|The last fish wins.
+1190|One or more players are taggers.|Tagged players stand with legs apart; teammates crawl through to free them.|Taggers win by freezing everyone.
+1191|One player is the ghost who hides in the dark.|Others count the clock until midnight, then search.|The ghost chases; tagged players become ghosts.
+1192|Sit in a circle; each player gets a fruit name.|Call a fruit; those players swap seats while the caller tries to sit.|The player left standing calls next.
+1193|One player has a soft ball.|Tag others by throwing the ball at them.|Tagged players join the taggers.
+1194|Use a court with painted lines.|Everyone must run only on lines; taggers chase.|Tagged players become taggers.
+1195|One player is the zombie.|Tagged players become zombies too.|The last human wins.
+1196|Mark a line between two teams.|A raider crosses chanting in one breath and tags players.|Get back safely to score.
+1197|Hand out bingo cards with answers.|Call out sums; players solve and mark answers.|First complete line wins.
+1198|Prepare flashcards.|Show a card; players answer fast.|Fastest correct answer wins the card.
+1199|Give teams materials.|Complete experiments.|Judges score results.
+1200|Open a coding puzzle app.|Use blocks or code to solve levels.|Complete the levels.
+1201|Open a typing test.|Type the passage.|Fastest accurate typing wins.
+1202|Give event cards.|Order them by date.|Most correct order wins.
+1203|Call out times tables.|Answer fast.|Fastest correct wins.
+1204|Give arithmetic problems.|Solve with the abacus.|Fastest correct wins.
+1205|Introduce new words.|Use them in sentences.|Earn points for each word.
+1206|Make a category board.|Teams pick and answer.|Most points wins.
+1207|Run a Kahoot quiz.|Students answer on devices.|Top score wins.
+1208|Hand out periodic table bingo cards.|Call element clues.|First complete line wins.
+1209|Use play money.|Count and make change.|Correct answers score.
+1210|Get a map puzzle.|Assemble countries.|Complete the map.
+1211|Teams build robots.|Program them to complete tasks.|Highest score wins.
+1212|Students represent countries.|Debate and draft resolutions.|Awards go to the best delegates.
+1213|Teams get a motion.|Argue for and against.|Judges pick the winner.
+1214|Teams compete in science events.|Build, test and answer.|Most points wins.
+1215|Solve maths problems.|Write proofs.|Highest score wins.
+1216|Each player creates a character; one is the Dungeon Master.|The DM describes scenes; players say what they do and roll a d20 for outcomes.|Complete the quest and grow your character over sessions.
+1217|Create characters.|Explore and fight with d20 rolls.|Complete adventures.
+1218|Create investigators.|Solve mysteries while sanity drains.|Survive and uncover the truth.
+1219|Create vampire characters.|Navigate politics and hunger.|Survive and pursue your goals.
+1220|Create runners.|Plan heists in a cyberpunk world.|Complete the run.
+1221|Create characters.|Survive a grim world.|Complete adventures.
+1222|Create space characters.|Explore the galaxy.|Complete missions.
+1223|Build characters with points.|Play in any setting.|Complete adventures.
+1224|Create characters with aspects.|Tell a story together.|Shape the narrative.
+1225|Use a prompt book.|Write journal entries from prompts.|Finish the story.
+1226|Make costumes and characters.|Act them out in person.|Follow the story.
+1227|Prepare deep roles.|Immerse in the scenario.|Reflect afterwards.
+1228|Get a prompt.|Act scenes spontaneously.|Have fun.
+1229|Read the book.|Choose where to go at each choice.|Reach an ending.
+1230|Roll dice for stats.|Read sections and fight.|Reach the end.
+1231|Post in a forum thread.|Write your character's actions.|Continue the story.
+1232|Create a character online.|Quest with thousands of players.|Level up and raid.
+1233|Start the game.|Follow the story and fight turn-based battles.|Finish the story.
+1234|Start the game.|Fight in real time and level up.|Beat the bosses.
+1235|Place chips on numbers or colours.|The dealer spins the wheel with 37 pockets.|Bets on the winning pocket pay out.
+1236|Place bets on the layout.|The wheel has 38 pockets including 00.|Winning bets pay out.
+1237|Bet on player, banker or tie.|Cards are dealt by fixed rules.|The hand closest to 9 wins.
+1238|Deal two hole cards.|Bet through flop, turn and river.|Best hand wins the pot.
+1239|Place an ante.|Get three cards and play or fold.|Beat the dealer's hand.
+1240|Place an ante.|Get five cards and raise or fold.|Beat the dealer.
+1241|Get seven cards.|Split into five-card and two-card hands.|Beat both banker hands.
+1242|Insert a bet.|Spin the reels.|Matching symbols pay.
+1243|Get five cards.|Hold and draw.|Hands pay by the table.
+1244|Pick numbers.|Twenty numbers are drawn.|Pay by matches.
+1245|Buy a ticket with numbers.|Wait for the draw.|Match numbers to win.
+1246|Buy a card.|Scratch the panels.|Revealed symbols may win.
+1247|Bet on segments.|The wheel spins.|The landing segment pays.
+1248|The dealer covers beads.|Remove them in fours.|Bet on the remainder.
+1249|Play mahjong with stakes.|Build sets.|The winner collects.
+1250|A spinner tosses two coins.|Bet on heads or tails.|Two heads or two tails decides.
+1251|Pick a match.|Bet on the outcome.|Correct bets pay.
+1252|Pick a race.|Bet on horses.|Winning bets pay.
+1253|Two teams of seven play on a court split in half.|A raider crosses, tags defenders and returns in one breath chanting "kabaddi"; defenders try to hold the raider.|Each tag or successful tackle scores; most points wins.
+1254|Stack seven flat stones; two teams of seekers and hitters.|A hitter knocks the pile down with a ball; their team rebuilds while the other team hits them with the ball.|Rebuild the pile without being hit to score.
+1255|Wind a string around a wooden top.|Throw it to spin, and try to hit other tops.|The last top spinning wins.
+1256|Draw a 5x5 grid; use cowrie shells as dice.|Throw shells and move pieces in a spiral, capturing opponents.|First to get all pieces to the centre wins.
+1257|Fill a 14-pit board with seeds.|Sow seeds round the board and capture.|Most seeds wins.
+1258|Three tigers and 15 goats on a triangle board.|Tigers jump goats; goats block tigers.|Goats trap tigers or tigers capture enough goats.
+1259|Four tigers and 20 goats.|Tigers jump to capture; goats block.|Trap all tigers or capture five goats.
+1260|Place tokens on the board.|Climb ladders of virtue and slide down snakes of vice.|First to reach the end wins.
+1261|Use five small stones.|Toss one up and pick others before catching it.|Complete all rounds to win.
+1262|Draw squares.|Hop through on one foot.|Complete all squares to win.
+1263|Fly kites with glass-coated string (manja).|Cut rivals' strings in the sky.|The last kite flying wins.
+1264|Draw role chits.|The police guess the thief.|Correct guesses score.
+1265|Sit in a circle.|One player drops a cloth behind someone and runs.|The chosen player chases them round.
+1266|Pairs of buffaloes run in a muddy track.|A farmer guides them.|Fastest pair wins.
+1267|Teams row snake boats.|Row to songs.|First boat wins.
+1268|Hang a pot of curd high.|Teams form a human pyramid.|Break the pot to win.
+1269|Blindfold a player.|They swing a stick at a hanging pot.|Break it to win.
+1270|Draw a circle field.|Raiders tag in the circle.|Most points wins.
+1271|Two teams of seven play with an oiled coconut.|Carry the coconut and dodge tackles.|Place it in the goal box to win.
+1272|Two teams of seven ride ponies with mallets.|Hit the ball toward the goal.|Most goals wins.
+1273|Two wrestlers tie belts.|Grip belts and throw.|Bring the opponent's back down to win.
+1274|Two wrestlers grip belts.|Lift and throw without leg holds.|Force the opponent to the ground.
+1275|Two players hold a stick.|Push against each other.|Push the other out of the circle.
+1276|Hold the throwing ring.|Throw at targets.|Hit targets to score.
+1277|Play regional race boards.|Roll and move.|First home wins.
+1278|Use cowrie shells.|Move pieces on a grid.|First to finish wins.
+1279|One team hops on one leg.|Tag the runners.|Tag all to win.
+1280|Use a stick and a small wooden piece.|Flip and strike it far.|Score by distance.
+1281|Set up the striking game.|Strike the piece in turns.|Most points wins.
+1282|Use a long stick and short piece.|Strike the piece far.|Score by distance.
+1283|Fill a 14-pit board with seeds.|Sow and capture seeds.|Most seeds wins.
+1284|Chasers sit in a line.|The active chaser tags runners.|Most tags wins.
+1285|Use a gilli and a danda.|Flip and strike.|Score by distance.
+1286|Split into teams.|Chase and tag.|Tag all to win.
+1287|Two teams on a split court.|A raider tags and returns in one breath.|Most points wins.
+1288|Wrestlers meet in a festival ring.|Grip and throw.|Throw the opponent to win.
+1289|Use a stick and peg.|Strike far.|Score by distance.
+1290|Two teams play with a bat and ball.|Hit and run bases.|Most runs wins.
+1291|Use a stick and peg.|Strike far.|Score by distance.
+1292|Two teams shoot at small targets 145 m away.|Dance and sing when a hit lands.|First team to the set points wins.
+1293|Two teams throw heavy darts.|Aim at a small target 20 m away.|Most points wins.
+1294|Play on a mancala board.|Sow and capture seeds.|Most seeds wins.
+1295|Riders compete for a goat carcass.|Carry it around a post and drop it in the circle.|Most goals wins.
+1296|Stand in a circle or across a net.|Kick the feathered shuttle to keep it up.|Count kicks or win rallies.
+1297|Hold sticks connected by a string.|Spin and toss the diabolo.|Perform tricks.
+1298|Teams kick a leather ball.|Kick it through a goal set high.|Most goals wins.
+1299|Four players build walls of tiles.|Draw and discard to form sets.|First to complete a hand wins.
+1300|Place stones on a grid.|Surround territory.|Most territory wins.
+1301|Stretch elastic.|Jump patterns.|Complete patterns to win.
+1302|Draw squares.|Hop through.|Complete them to win.
+1303|One player is the eagle; the hen leads a line of chicks.|The eagle tries to catch the last chick while the hen blocks.|The caught chick becomes the eagle.
+1304|Stand in a circle.|Keep the ball in the air with kicks.|Count kicks together.
+1305|Hold the ken with the ball on a string.|Swing the ball onto cups or the spike.|Complete tricks.
+1306|Blindfold a player.|Place face parts on a blank face.|Laugh at the result.
+1307|Use paddles and a shuttlecock.|Hit it back and forth.|Missing marks your face with ink.
+1308|Throw your card.|Flip the opponent's card.|Keep flipped cards.
+1309|Stack blocks.|Knock blocks out with a mallet without the top falling.|Keep the daruma standing.
+1310|One player crouches blindfolded.|Others circle and sing.|Guess who is behind you.
+1311|Ride a horse along a track.|Shoot arrows at targets.|Hits score.
+1312|Kick a shuttle.|Keep it up.|Most kicks wins.
+1313|Stand on a seesaw board.|Jump to launch your partner.|Highest jump wins.
+1314|Toss stones.|Catch and pick up stones.|Complete levels.
+1315|Throw your ddakji tile.|Flip the opponent's tile.|Win the flipped tile.
+1316|Set a pot.|Throw arrows into it.|Most in wins.
+1317|Players stand in a circle.|Pass a rattan ball with feet and knees.|Keep it up as a team.
+1318|Kick a weighted shuttle.|Keep it up.|Most kicks wins.
+1319|Draw a grid; defenders guard lines.|Runners cross without being tagged.|Cross and return to score.
+1320|Place a can.|Knock it with slippers while the guard returns it.|Avoid being tagged.
+1321|Two players form an obstacle with hands and feet.|Jumpers leap over without touching.|The height increases each round.
+1322|Play on a mancala board.|Sow shells.|Most shells wins.
+1323|Listed for cultural history only.|Animal fighting is illegal in many countries, so no play instructions are given here.|Not played on Pujiverse channels.
+1324|Wind and throw the top.|Spin it longest.|Longest spin wins.
+1325|Fly the large decorated wau kite.|Show height and humming.|Judges score.
+1326|Play on a mancala board.|Sow and capture.|Most seeds wins.
+1327|Pairs of bulls pull a sled.|Race down a track.|First across wins.
+1328|Teams paddle long boats.|Race on the river.|First boat wins.
+1329|Grease a tall pole with prizes at the top.|Teams climb on each other.|Reach the prizes.
+1330|Play on a mancala board with large mandarin pits.|Sow and capture.|Most stones wins.
+1331|Kick a shuttle.|Keep it up or play over a net.|Win rallies.
+1332|Teams pull a rope.|Pull together in a ritual.|Pull the marker across.
+1333|Two fighters.|Strike with limbs.|Win by knockout.
+1334|Teams kick a ball.|Pass it through a hoop.|Most hoops wins.
+1335|Teams pull a rope.|Pull together.|Pull the marker across.
+1336|Sit in a circle.|Drop a scarf behind someone.|They chase and hit with the scarf.
+1337|Child jockeys ride horses.|Race long distances.|First across wins.
+1338|Use sheep ankle bones.|Flick bones to hit others.|Hits score.
+1339|Place 15 checkers each.|Roll dice and move.|First to bear off wins.
+1340|Set up shatranj pieces.|Move with older piece rules.|Checkmate the shah.
+1341|Play on a mancala board.|Sow and capture.|Most seeds wins.
+1342|Set up 16 pieces on an 8x8 board.|Move straight and capture by jumping.|Capture all pieces.
+1343|Wrestlers oil themselves.|Grip and throw.|Pin the opponent.
+1344|Two teams on horseback.|Throw blunt javelins at opponents.|Hits score.
+1345|Release saluki dogs.|They chase a lure.|First across wins.
+1346|Play on a 5x5 grid.|Capture by jumping.|Capture all pieces.
+1347|One team hides a ring in a hand.|The other team guesses who holds it.|Correct guesses score.
+1348|Play on a mancala board.|Sow and capture.|Most seeds wins.
+1349|Train in the zurkhaneh.|Swing clubs to drums.|Build strength.
+1350|Teams ride horses.|Hit the ball with mallets.|Most goals wins.
+1351|Riders grab a goat carcass.|Carry it to the goal.|Most goals wins.
+1352|A man chases a woman on horseback.|If he catches her he may steal a kiss; on the way back she chases him with a whip.|A playful courtship tradition.
+1353|Play on a nine-pit mancala.|Sow and capture.|Most balls wins.
+1354|Line up asyk bones.|Knock them with a bone.|Win knocked bones.
+1355|Use a backgammon board.|Play race games.|First home wins.
+1356|Play on a mancala board.|Sow and capture.|Most seeds wins.
+1357|Two players hold long sticks.|Perform a stick-fight dance to music.|Show skill and control.
+1358|Put four seeds in each of 12 pits.|Sow and capture.|First to 25 seeds wins.
+1359|Put seeds in 12 pits.|Sow and capture.|Most seeds wins.
+1360|Play on a 4x8 board.|Sow and capture.|Leave the opponent unable to move.
+1361|Play on a 4x8 board.|Sow and capture.|Capture all seeds.
+1362|Play on a 4x8 board.|Sow and capture.|Capture all seeds.
+1363|Wrestlers enter after rituals.|Grapple and strike.|Knock the opponent down.
+1364|Teams use curved sticks.|Hit the ball.|Most goals wins.
+1365|Two players turn the rope.|Others skip with songs.|Do not trip.
+1366|Dig a small hole with stones.|Toss a stone and scoop others.|Complete rounds.
+1367|Players jump and clap.|Throw a leg forward on the beat.|Matching or not decides points.
+1368|Play on a mancala board.|Sow and capture.|Most seeds wins.
+1369|Play on a mancala board.|Sow and capture.|Most seeds wins.
+1370|Toss stones.|Catch and scoop stones.|Complete rounds.
+1371|Lions and lambs on a grid.|Lions jump; lambs trap.|Trap lions or capture lambs.
+1372|Horsemen line up.|Charge together and fire muskets at once.|Judges score the timing of the shot.
+1373|Teams play with a ball.|Pass and score.|Most goals wins.
+1374|Wrestlers meet in a ring.|Grip and throw.|Throw the opponent.
+1375|Play on a mancala board.|Sow and capture.|Most seeds wins.
+1376|Show fingers.|Shout the total.|The correct guess scores.
+1377|A raider crosses.|Tags players in one breath.|Return to score.
+1378|Throw a heavy iron ball along a country road.|Count throws to the finish.|Fewest throws wins.
+1379|Lift a long tree trunk upright.|Run and toss it end over end.|The straightest landing (12 o'clock) wins.
+1380|Two teams of eleven play with bat, ball and stumps.|Bowlers bowl overs; batters score runs.|Most runs wins.
+1381|Thread a horse chestnut on a string.|Take turns striking the opponent's conker.|The conker that survives wins.
+1382|Use a board with beds.|Push coins into the beds.|Fill each bed three times to win.
+1383|Teams dance in costume with sticks and bells.|Perform routines.|Judges score.
+1384|Two teams of 27 play on sand.|Punch, wrestle and carry the ball.|Most goals wins.
+1385|Ten horses race round the town square.|Jockeys ride bareback for three laps.|First horse across wins, even without its rider.
+1386|Throw boules.|Get close to the jack.|First to 13 wins.
+1387|Hit a ball with the hand or racket.|Rally over a net in a court.|Win points like tennis.
+1388|Stand on a log.|Chop through it with an axe.|Fastest time wins.
+1389|Hundreds of people climb on each other.|Build towers up to ten levels.|Complete and dismantle the tower safely.
+1390|A batter strikes the hornuss puck far.|The opposing team catches it with boards.|Fewest catches missed wins.
+1391|Hold a heavy stone.|Throw it far.|Longest throw wins.
+1392|Teams throw a wooden ball.|Throw long distances.|Fewest throws to finish wins.
+1393|Run with a long pole.|Vault over a canal.|Longest jump wins.
+1394|Slide discs.|Aim for slots.|Highest score wins.
+1395|Roll balls at nine pins.|Knock pins.|Most pins wins.
+1396|Two players hook middle fingers in a leather strap.|Pull across the table.|Pull the opponent over to win.
+1397|Arrange wooden pins into a figure.|Throw a bat to knock them out of the square.|Fewest throws wins.
+1398|Stand on a barrel.|Throw a haggis.|Longest throw wins.
+1399|Play on a mancala board.|Sow and capture.|Most seeds wins.
+1400|Two teams use netted sticks.|Pass and shoot a ball.|Most goals wins.
+1401|Two teams use two sticks each.|Carry and throw the ball.|Hit the goal to score.
+1402|Throw a long wooden snow snake.|Slide it along a snow track.|Longest slide wins.
+1403|Hang a target ball.|Jump and kick it.|Highest kick wins.
+1404|Hold a walrus-skin blanket.|Toss a person high.|Highest toss wins.
+1405|Two players loop string behind ears.|Pull apart.|The one who lasts wins.
+1406|Roll a hoop.|Throw a pole through it.|Hits score.
+1407|Cowboys compete.|Ride broncos and rope calves.|Best scores win.
+1408|Teams hit a heavy rubber ball with the hips.|Keep it in the air in the court.|Score by passing the end line.
+1409|Teams use sticks.|Hit a ball set on fire.|Most goals wins.
+1410|Charros compete.|Show horsemanship and roping.|Judges score.
+1411|Hand out picture cards.|The caller sings out pictures.|First line wins.
+1412|Teams kick a wooden ball.|Run long distances kicking it.|First to finish wins.
+1413|Hit the shuttle with your hand.|Keep it in the air.|Win rallies.
+1414|Two per side.|Play volleyball with feet.|Win sets.
+1415|Two pairs with bats and cans.|Protect the can and hit the ball.|First to the target score wins.
+1416|Teams use curved sticks.|Hit the ball past the end.|Most goals wins.
+1417|Throw metal discs.|Aim at a string line.|Closest discs score.
+1418|Toss coins.|Aim at the frog's mouth.|Highest score wins.
+1419|Teams hit a ball with gloves.|Rally it back and forth.|Score by the rules.
+1420|Teams hit a ball with hands.|Rally over a line.|Score points.
+1421|Teams hit a ball.|Keep it off the ground.|Score points.
+1422|Four players in partnerships.|Match ends.|First team to the target wins.
+1423|Players kick a possum-skin ball.|Leap high to catch it.|The best catches are celebrated.
+1424|Throw a boomerang.|Make it return.|Accuracy and catches score.
+1425|Use a woomera to throw a spear.|Throw far and accurately.|Hits score.
+1426|Set up stumps on the sand.|Play casual overs.|Most runs wins.
+1427|Six per side.|Touch instead of tackle.|Most touchdowns wins.
+1428|Two teams of seven play on a circular field.|Hit the central target or pass the ball.|Most points wins.
+1429|Swing poi.|Perform rhythmic routines.|Judges score.
+1430|Paddle outrigger canoes.|Race together.|First across wins.
+1431|Paddle out on a wooden board.|Ride waves.|Show skill.
+1432|Roll stones.|Roll between two stakes.|Most hits wins.
+1433|Ride a narrow sled.|Slide down a lava slope.|Ride safely and fast.
+1434|Throw discs.|Slide them on a mat.|Hit targets to score.
+1435|Climb a wooden tower.|Jump with vines on the ankles.|A ritual for the harvest.
+1436|Two teams of 15.|Play rugby.|Most points wins.
+1437|Two teams of seven.|Play sevens.|Most points wins.
+1438|Plant a stake.|Husk coconuts.|Fastest wins.
+1439|Wade or dive with a spear.|Catch fish.|Most fish wins.
+1440|Pick an action game.|Fight enemies with reflexes and combos.|Clear levels and bosses.
+1441|Pick an adventure game.|Explore and solve puzzles.|Finish the story.
+1442|Pick an open-world game.|Explore freely and take quests.|Complete the main story.
+1443|Create a character.|Level up and gear up through quests.|Finish the story.
+1444|Pick an FPS.|Aim and shoot from first person.|Win matches or finish the campaign.
+1445|Pick a third-person shooter.|Shoot from behind the character.|Win matches.
+1446|Teams pick sides.|Win rounds with careful play.|Win the most rounds.
+1447|Drop onto a map.|Loot, fight and stay inside the circle.|The last player or squad wins.
+1448|Pick a hero with unique abilities.|Fight in team objectives.|Win the objective.
+1449|Enter a map.|Loot items and fight.|Extract alive to keep loot.
+1450|Pick a car.|Race on tracks.|First across wins.
+1451|Pick a kart.|Race and use items.|First across wins.
+1452|Pick a team.|Play the sport on screen.|Win the match.
+1453|Pick a fighter.|Use combos and blocks.|Reduce the opponent's health to zero.
+1454|Pick a fighter.|Fight waves of enemies.|Clear the stage.
+1455|Control a character.|Jump between platforms.|Reach the goal.
+1456|Explore a connected map.|Unlock abilities to reach new areas.|Defeat the final boss.
+1457|Start a run.|Fight through random rooms; dying resets.|Reach the end of a run.
+1458|Open a puzzle.|Use logic.|Solve it.
+1459|Create a character.|Live a simulated life.|Set your own goals.
+1460|Get a farm.|Plant crops and raise animals.|Grow your farm.
+1461|Plan a city.|Build roads and zones.|Grow a thriving city.
+1462|Take off in a plane.|Fly realistic routes.|Land safely.
+1463|Drive a truck.|Deliver cargo.|Complete jobs.
+1464|Gather resources.|Build bases and command armies.|Destroy the enemy base.
+1465|Start with one city.|Explore, expand, exploit and exterminate.|Achieve a victory condition.
+1466|Rule a nation.|Manage politics and war over centuries.|Pursue your goals.
+1467|Place towers.|Stop enemy waves on a path.|Survive all waves.
+1468|Two teams of five pick heroes.|Push lanes and destroy towers.|Destroy the enemy base.
+1469|Spawn in the wild.|Gather resources and craft.|Survive as long as possible.
+1470|Explore a scary place.|Manage scarce resources.|Survive and escape.
+1471|Open a world.|Build freely.|Make anything.
+1472|Sneak past guards.|Avoid detection.|Complete the mission.
+1473|Pick a song.|Hit notes to the beat.|Highest score wins.
+1474|Gather friends.|Play mini-games.|Most stars wins.
+1475|Read the story.|Make choices.|Reach an ending.
+1476|Watch scenes.|Make choices.|See your ending.
+1477|Tap to earn.|Upgrade and progress while away.|Reach milestones.
+1478|Build a deck.|Fight with cards.|Defeat enemies.
+1479|Arrange units.|Watch them fight automatically.|The last player standing wins.
+1480|Explore a dark world.|Learn tough enemy patterns.|Beat the bosses.
+1481|Pick a learning game.|Play to learn.|Complete lessons.
+1482|Use a motion game.|Exercise while playing.|Hit fitness goals.
+1483|Put on a headset.|Play in virtual reality.|Complete experiences.
+1484|Use your phone camera.|Play in the real world.|Complete challenges.
+1485|Read the text.|Type commands like "go north".|Solve the story.
+1486|Insert a coin.|Play classic games.|Highest score wins.
+1487|Tap to play.|Short simple rounds.|Beat your best.
+1488|Swap tiles.|Match three or more.|Complete level goals.
+1489|Run automatically.|Swipe to dodge obstacles.|Run farthest.
+1490|Drop onto a map with 100 players.|Loot and fight.|The last squad wins.
+1491|Two teams of five.|Push lanes.|Destroy the base.
+1492|Pick a mode.|Shoot opponents.|Win matches.
+1493|Join online.|Roll and move tokens.|First home wins.
+1494|Join online.|Flick coins into pockets.|Pocket all first.
+1495|Join an app table.|Play rummy or teen patti.|Win the hand.
+1496|Join an app.|Play chess.|Checkmate wins.
+1497|Open the daily puzzle.|Find words.|Solve it.
+1498|Join a quiz battle.|Answer questions.|Most correct wins.
+1499|Join a room.|Draw and guess.|Highest score wins.
+1500|Spend currency on draws.|Collect characters and level them.|Build a strong team.
+1501|Build a base.|Raid others.|Climb the ranks.
+1502|Set up a team.|Progress automatically.|Reach new stages.
+1503|Run a business.|Earn and expand.|Grow profits.
+1504|Combine items.|Upgrade them.|Reach the top item.
+1505|Look at a scene.|Find listed items.|Find all.
+1506|Walk outside.|Play at real locations.|Complete goals.
+1507|Pick a team.|Bat and bowl.|Win the match.
+1508|Pick a team.|Play or manage football.|Win.
+1509|Pick a car.|Race on your phone.|First across wins.
+1510|Pick a song.|Tap to the beat.|Highest score wins.
+1511|Pick real players for your team.|Earn points from their real matches.|Top score wins.
+1512|Two teams of five play a MOBA in a tournament.|Draft heroes and push lanes.|Destroy the base to win the series.
+1513|Teams of five play rounds.|Attack or defend objectives.|Win the most rounds.
+1514|Squads drop into large lobbies.|Survive and eliminate opponents.|Points for placement and kills.
+1515|Squads play mobile titles.|Compete in leagues.|Highest points wins.
+1516|Players meet in brackets.|Fight in best-of matches.|Win the bracket.
+1517|Players compete one on one.|Play football or basketball games.|Win the league.
+1518|Drivers race in simulators.|Race online.|First across wins.
+1519|Two players meet.|Build armies in real time.|Destroy the enemy.
+1520|Two players meet.|Play digital card battles.|Win the match.
+1521|Teams pick heroes.|Fight objectives.|Win the series.
+1522|Teams of three drive rocket cars.|Hit a giant ball into the goal.|Most goals wins.
+1523|Pick a game and category.|Play as fast as possible.|Fastest verified time wins.
+1524|Play chess online.|Fast time controls.|Win the event.
+1525|Compete in IOC esports events.|Play selected titles.|Win medals.

@@ -1,0 +1,174 @@
+499|The host prepares short movie clips with the sound muted or the frame cropped.|Play one clip at a time; players or teams buzz in with the movie name.|One point per correct answer; most points after all clips wins.
+500|The host picks famous lines from films.|Play the audio or read the line aloud; players guess the movie.|Correct answers score; bonus for naming the actor who said it.
+501|The host writes each movie plot as a row of emojis.|Show one emoji clue at a time on a screen or paper.|First correct title wins the point; most points wins.
+502|The host collects short background-score or theme clips.|Play a few seconds; players name the film.|Fewer seconds needed earns more points.
+503|The host crops a tiny part of a movie poster.|Zoom out step by step until someone guesses the film.|Guessing at an earlier zoom level scores more.
+504|The host picks one still frame from each film.|Show the frame; players name the movie.|One point per correct guess.
+505|The host writes a funny, badly summarised one-line plot for each film.|Read it aloud; players guess the title.|First correct answer scores.
+506|The host prepares intros, scenes or character photos from TV shows and web series.|Show one clue at a time.|Name the series to win the point.
+507|The host lines up songs.|Play 3 to 5 seconds of each.|First to name the song scores; most points wins.
+508|The host plays only the instrumental part of each song.|Players listen and guess.|First correct title scores.
+509|Write a song title or lyric theme as emojis.|Show each emoji clue.|First correct song name scores.
+510|Reverse a song or dialogue clip with any audio app.|Play it backwards; players guess the original.|Correct guesses score.
+511|One player hums a tune without any words.|Others guess the song.|The guesser and the hummer both score.
+512|Play a song and stop it suddenly.|Players sing or say the next line.|Exact lyrics score the point.
+513|Play a short vocal clip.|Players name the singer.|One point per correct name.
+514|Play tracks with distinct styles.|Players name the music director or composer.|Correct answers score.
+515|Collect childhood photos of celebrities.|Show one at a time.|First to name the star scores.
+516|Show a black outline of a famous person.|Players guess who it is.|First correct guess scores.
+517|Show only the eyes of a famous face.|Players name the person.|Correct answers score.
+518|Blend two celebrities into one face with an app.|Players name both people.|One point per correct name.
+519|Play a voice recording of an actor, leader or friend.|Players guess whose voice it is.|Correct guesses score.
+520|Play a cartoon or dubbed character voice.|Players name the character.|Correct answers score.
+521|Show part of a logo, or the logo without text.|Players name the brand.|First correct answer scores.
+522|Read out a company tagline.|Players name the brand.|Correct answers score.
+523|Play a TV ad jingle.|Players name the product.|Correct answers score.
+524|Show a national flag.|Players name the country.|One point per correct country.
+525|Show the outline of a country or state.|Players name it.|Correct answers score.
+526|Name a country.|Players give its capital city.|Correct answers score.
+527|Show a street-view scene.|Players guess the city or country, or pin it on a map.|Closest guess scores most.
+528|Show a blurred or zoomed photo of a monument.|Players name the landmark.|First correct answer scores.
+529|Show a city skyline silhouette.|Players name the city.|Correct answers score.
+530|Play or show a sentence in a foreign language.|Players name the language.|Correct answers score.
+531|Show a banknote or coin.|Players name the currency and country.|Correct answers score.
+532|Start with a very blurry image.|Sharpen it step by step.|First correct guess wins; earlier guesses score more.
+533|Start with a heavily pixelated picture.|Reduce pixelation slowly.|First correct guess wins.
+534|Show an extreme close-up of an everyday object.|Players guess what it is.|Correct answers score.
+535|Show only the shadow of an object.|Players guess the object.|Correct answers score.
+536|Show an X-ray scan of an object or animal.|Players name it.|Correct answers score.
+537|Show a close-up photo, or blindfold players and let them taste.|Players name the dish.|Correct answers score.
+538|Give a taste or a list of clues.|Players name the ingredient.|Correct answers score.
+539|Let players smell or taste a spice.|Players name it.|Correct answers score.
+540|Play everyday sounds like a doorbell, rain or an engine.|Players identify each sound.|Correct answers score.
+541|Play animal calls.|Players name the animal.|Correct answers score.
+542|Show a close-up of fur, scales or an eye.|Players name the animal.|Correct answers score.
+543|Play bird songs.|Players name the bird.|Correct answers score.
+544|Show a headlight close-up or play an engine sound.|Players name the make and model.|Correct answers score.
+545|Show photos of aircraft or trains.|Players name the model.|Correct answers score.
+546|Show a cropped or silhouetted character.|Players name the cartoon or anime character.|Correct answers score.
+547|Show a game screenshot or play its soundtrack.|Players name the video game.|Correct answers score.
+548|Give career stats or a blurred photo.|Players name the athlete.|Fewer clues needed earns more points.
+549|Show kit colours or part of a crest.|Players name the club.|Correct answers score.
+550|Show a stadium photo.|Players name the stadium and city.|Points for each correct part.
+551|Show a news clip, song or ad.|Players guess the year.|Exact year scores most; closest also scores.
+552|Show outfit photos.|Players guess the decade.|Correct answers score.
+553|Show a product.|Players guess its price without going over.|Closest without going over wins.
+554|One player picks a secret number in a range.|Others guess; the picker says higher or lower.|Fewest guesses wins.
+555|Fill a jar with sweets.|Everyone writes a guess of how many.|Closest guess wins the jar.
+556|Show an object.|Players guess its weight.|Closest guess wins.
+557|Show a landmark or distance.|Players estimate distance or height.|Closest guess wins.
+558|Show a photo of a person.|Players guess their age.|Closest guess wins.
+559|Start a hidden timer.|Players stop when they think 60 seconds have passed.|Closest to 60 wins.
+560|Stick a word on one player's forehead or hold up a phone.|They ask yes/no questions or hear clues.|Guessing in time scores; most words wins.
+561|One player thinks of an object.|Others ask up to 20 yes/no questions.|Guess within 20 to win; otherwise the thinker wins.
+562|One player thinks of something and says animal, vegetable or mineral.|Others ask yes/no questions.|Guess within 20 questions to win.
+563|Split into teams; write titles on slips.|One player acts out a title silently with gestures.|Teammates guess before time runs out; most correct wins.
+564|Split into teams with paper or a whiteboard.|One player draws the word without letters or numbers.|Teammates guess in time; first to the finish wins.
+565|Join an online room.|Take turns drawing a word while others type guesses.|Faster guesses score more; top score wins.
+566|Split into teams with word cards.|Describe the main word without saying the forbidden words.|Score one point per word guessed in time.
+567|Play in pairs.|Give one-word clues so your partner says the secret word.|Fewer clues score more points.
+568|Pass the device around the circle.|Describe the word until your team guesses, then pass.|Whoever holds it when the timer goes off loses.
+569|Each player secretly picks a face.|Take turns asking yes/no questions and flipping down faces.|First to name the other's face wins.
+570|Put an object inside a box with a hand hole.|Players feel it without looking.|Correct names score.
+571|Prepare smell jars like coffee, perfume and spices.|Blindfolded players sniff each one.|Correct answers score.
+572|Collect handwritten notes from players.|Others match handwriting to writers.|Correct matches score.
+573|Collect friends' baby photos.|Show each photo.|Match photos to people for points.
+574|Read a quote.|Players guess who said it.|Correct answers score.
+575|Write a proverb or idiom as emojis.|Show the emoji row.|First correct phrase scores.
+576|Write a title with the vowels removed.|Players fill in the gaps.|Correct answers score.
+577|Translate a title literally into another language and back.|Players guess the original.|Correct answers score.
+578|Show a meme template without text.|Players name the meme.|Correct answers score.
+579|Give clues about a viral trend.|Players guess the hashtag.|Correct answers score.
+580|Show an unusual old object.|Players guess what it was used for.|Correct answers score.
+581|Name an invention.|Players name the inventor.|Correct answers score.
+582|Paraphrase the opening of a book.|Players name the book.|Correct answers score.
+583|Each player writes two true facts and one lie about themselves.|Read all three aloud.|Others guess the lie; fool them to score.
+584|Deal cards in secret; one person is the murderer.|The murderer winks at players to eliminate them; they "die".|Guess the murderer before everyone is out.
+585|A narrator deals hidden roles: mafia, villagers and specials.|At night the mafia picks a victim; by day everyone debates and votes someone out.|Villagers win by removing all mafia; mafia win by matching their number.
+586|Everyone gets the same location card except one spy.|Ask each other questions about the location.|Find the spy, or the spy guesses the location to win.
+587|One player sees where a target sits on a spectrum dial.|They give a clue; their team turns the dial to guess.|Closer to the target scores more.
+588|The storyteller picks a card and says a clue.|Others play a card that fits; everyone votes.|Points for guessing the storyteller's card or fooling others.
+589|Lay out 25 word cards; two spymasters see the key.|Give one-word clues with a number to link team words.|First team to find all its words wins; hitting the assassin loses.
+590|Show a puzzle made of pictures and letters.|Players work out the phrase.|Correct answers score.
+591|One player picks a word and draws blanks.|Others guess letters; wrong guesses add to the hangman drawing.|Guess the word before the drawing is complete.
+592|A hidden five-letter word is chosen.|Guess a word; colours show correct letters and spots.|Find the word in six tries.
+593|Think of a character.|Answer a program's yes/no questions.|The program wins if it guesses right.
+594|One player sets a secret colour or number code.|The other guesses; feedback shows exact and partial matches.|Crack the code in fewest guesses.
+595|The host runs a live quiz on a screen.|Players answer picture and audio questions on phones.|Fast correct answers score most.
+596|Set up 16 pieces each on an 8x8 board; White moves first.|Each piece moves its own way; capture by landing on enemy pieces.|Checkmate the opponent's king to win.
+597|Set up pieces on the points of a 9x10 board with a river.|Generals stay in the palace; cannons jump to capture.|Checkmate the general to win.
+598|Set up 20 pieces each on a 9x9 board.|Captured pieces join your side and can be dropped back in.|Checkmate the king to win.
+599|Set up pieces on a 9x10 board with palaces.|Cannons must jump; generals stay in the palace.|Checkmate the general to win.
+600|Set up pieces on an 8x8 board.|Pieces move like old chess forms; pawns start on the third row.|Checkmate the king to win.
+601|Players arrange their pieces freely in their own half.|Move pieces like an older form of chess.|Checkmate the king to win.
+602|Players place black and white stones on a 19x19 grid in turns.|Surround empty points and capture stones with no liberties.|Most territory plus captures wins.
+603|Take turns placing stones on a grid.|Block the opponent while building lines.|First to make exactly five in a row wins.
+604|Set up 12 pieces each on dark squares of an 8x8 board.|Move diagonally forward; jump to capture; reaching the end crowns a king.|Capture or block all enemy pieces to win.
+605|Set up 20 pieces each on a 10x10 board.|Men capture backwards too; kings fly across diagonals.|Capture or block all enemy pieces to win.
+606|Place 15 checkers each on a 24-point board.|Roll two dice and move checkers; hit lone blots.|First to bear off all checkers wins.
+607|Each player has four tokens in a home base.|Roll a 6 to enter; move by dice rolls and capture by landing.|First to get all four tokens home wins.
+608|Players use a cloth board and cowrie shells as dice.|Move pieces round the cross and capture rivals.|First to bring all pieces home wins.
+609|Each player has four pawns.|Roll two dice; move and capture; safety spaces protect.|First to get all pawns home wins.
+610|Each player has four pieces on a cross board.|Roll a die; a 5 enters pieces; capture to advance 20.|First to get all pieces home wins.
+611|Each player has four pieces.|Roll a 6 to enter; move and knock others back.|First home wins.
+612|Each player has four pawns.|Draw cards to move; land on others to bump them back.|First to get all pawns home wins.
+613|Place tokens at the start of a 100-square board.|Roll a die; climb ladders and slide down snakes.|First to reach 100 wins.
+614|Place tokens at the start.|Spin and move; climb ladders, slide down chutes.|First to reach 100 wins.
+615|Each player starts with money and a token.|Roll dice, buy properties, build houses and collect rent.|The last player not bankrupt wins.
+616|Each player starts with money.|Roll dice, buy Indian cities and collect rent.|The last player not bankrupt wins.
+617|Spin the wheel and drive your car.|Make choices about career, family and money.|Most money at retirement wins.
+618|Draw seven letter tiles each.|Place words on the board crossing existing words.|Highest score after tiles run out wins.
+619|Hide one suspect, weapon and room card in an envelope.|Move to rooms, make suggestions and see what others disprove.|First to make the correct accusation wins.
+620|Place armies on territories on a world map.|Attack with dice, reinforce and hold continents.|Conquer all territories or complete your mission.
+621|Each player secretly places ships on a grid.|Call coordinates to fire shots; hits and misses are marked.|First to sink all enemy ships wins.
+622|Set up 40 hidden pieces with ranks.|Attack; the higher rank wins; bombs and the spy are special.|Capture the enemy flag to win.
+623|Roll and move around the wheel.|Answer trivia questions in six categories.|Collect all six wedges and answer the final question.
+624|Place 10 marbles in your star point.|Move one step or chain jumps over marbles.|First to fill the opposite point wins.
+625|Place pieces in a corner.|Move or jump over pieces.|First to move all pieces to the opposite corner wins.
+626|Start with four discs in the centre.|Place a disc to outflank and flip the opponent's discs.|Most discs of your colour at the end wins.
+627|Take turns dropping discs into a vertical grid.|Block your opponent while building lines.|First to connect four in a row wins.
+628|Each player has nine pieces.|Place, then move pieces; three in a line (a mill) removes an enemy piece.|Reduce the opponent to two pieces or block them to win.
+629|One fox and many geese sit on a cross board.|The fox jumps to capture; geese move to trap it.|The fox wins by capturing enough geese; the geese win by trapping it.
+630|The king and defenders start in the centre; attackers on the edges.|All pieces move like rooks; capture by sandwiching.|The king escapes to a corner, or attackers capture him.
+631|Each player has pieces on a 3x10 board.|Throw sticks to move along a path with special squares.|First to bear off all pieces wins.
+632|Each player has seven pieces on a 20-square board.|Roll tetrahedral dice; rosettes give an extra roll.|First to get all seven pieces off wins.
+633|Pieces start at the tail of a coiled snake board.|Race to the head and back.|First to complete the route wins.
+634|Move pieces on a cross-shaped board using beans as dice.|Bet items as you race.|First to complete the circuit wins.
+635|Build the island from hexes; each player starts with two settlements.|Roll for resources, trade and build roads, settlements and cities.|First to 10 victory points wins.
+636|Draw and place one tile each turn.|Add followers to roads, cities and monasteries.|Highest score at the end wins.
+637|Each player gets destination tickets.|Collect train cards and claim routes.|Most points from routes and tickets wins.
+638|Players are a team fighting four diseases.|Treat cubes, share cards and build research stations.|Find all four cures before outbreaks overwhelm you.
+639|Each player runs a corporation.|Play project cards to raise heat, oxygen and oceans.|Most victory points when Mars is terraformed wins.
+640|Each player has a board of three habitats.|Play birds, gain food and lay eggs over four rounds.|Most points wins.
+641|Draft tiles from factories.|Fill pattern rows and place tiles on your wall.|Highest score after a full row wins.
+642|Collect gem tokens.|Buy development cards that give permanent gems.|First to 15 prestige points wins.
+643|Choose heroes and a scenario.|Play ability cards to move and fight monsters.|Complete scenarios to advance the campaign.
+644|Each player leads a galactic faction.|Expand, trade, fight and vote in the council.|First to 10 victory points wins.
+645|Seven players control European powers.|Negotiate, then write secret orders that resolve together.|Control 18 supply centres to win.
+646|Players control WWII nations.|Buy units, move and fight with dice.|Capture enemy capitals to win.
+647|Place workers to gather resources.|Plough fields, raise animals and grow your family.|Highest score after 14 rounds wins.
+648|Choose roles each round.|Plant, build and ship goods.|Most victory points wins.
+649|Draft cards over three ages.|Build structures and wonders.|Most points wins.
+650|Start with a small deck.|Buy cards to build a stronger deck.|Most victory points when the game ends wins.
+651|Pick domino tiles.|Connect terrain into a 5x5 kingdom.|Highest score wins.
+652|Play with mahjong tiles on a table.|Draw and discard to build sets.|Complete a winning hand first.
+653|Use tweezers on the patient board.|Remove pieces without touching the metal edges.|Most money from successful operations wins.
+654|Move around the board collecting parts.|Build the mouse trap.|The last mouse not caught wins.
+655|Each player controls a hippo.|Press the lever to grab marbles.|Most marbles wins.
+656|Draw colour cards.|Move to the next space of that colour.|First to the castle wins.
+657|Play cards to place chips on the board.|Make rows of five chips.|First to complete the required rows wins.
+658|Draw 14 tiles.|Make runs and groups; rearrange the table.|First to play all tiles wins.
+659|Arrange coins in the centre of the board.|Flick the striker to pocket your coins and the queen.|First to pocket all coins wins the round.
+660|Players sit around a round board with pegs.|Flick discs toward the centre hole.|Highest score wins.
+661|Slide 30 discs down a long board.|Aim for four gates with different points.|Highest score wins.
+662|Open tiles numbered 1 to 9.|Roll dice and close tiles that add up to the total.|Lowest remaining sum wins.
+663|The king starts in the centre of a 9x9 board.|Pieces move like rooks; capture by sandwiching.|The king reaches the edge, or is captured.
+664|Place pieces on a 5x5 grid.|Move along lines and jump to capture.|Capture all enemy pieces.
+665|Place pieces on a grid with circuits.|Capture by travelling around circles.|Capture all enemy pieces.
+666|Fill the board except the centre.|Capture by moving toward or away from enemy lines.|Capture all enemy pieces.
+667|Fill a board with alternating stones.|Jump to capture.|The last player able to move wins.
+668|Play on a rhombus board of hexagons.|Place stones in turns.|First to connect your two sides wins.
+669|Throw four sticks.|Move pieces around the board; carry pieces together.|First to bring all pieces home wins.
+670|Roll dice and move tokens.|Follow square instructions.|First to the end wins.
+671|Use cowrie shells as dice on a 5x5 grid.|Move pieces in a spiral; capture opponents.|First to reach the centre with all pieces wins.
+672|Place seeds in 14 pits.|Sow seeds around the board and capture.|Most seeds wins.
